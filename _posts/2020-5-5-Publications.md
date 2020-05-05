@@ -17,9 +17,10 @@ permalink: /research/
 
 > Within the economic literature, studies in identity economics, peer effects, and skill development have all suggested that social influences have an important role in determining choices. In this review, I draw on lessons learned from the identity economics literature to examine implications from the peer effects and skill development literature. I focus on the role of social identity in generating social group effects from peers and what role identity may have in shaping the development of skills from broader environments, parents and peers during childhood and adolescence. 
 
-<dl>
+[**Current Version (final submission)**]("{{ site.baseurl }}/files/jes_ideco_norris.pdf")
+<!-- <dl>
 <a href = "{{ site.baseurl }}/files/jes_ideco_norris.pdf"><b>Current Version (final submission) </b> </a> 
-</dl>
+</dl> -->
 
 
 <!-- Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
