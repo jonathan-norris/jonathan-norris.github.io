@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Publications
+permalink: /research/
 ---
 
 **Peers Parents and Attitudes about School** (*forthcoming at Journal of Human Capital*)
