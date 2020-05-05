@@ -242,12 +242,12 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 10em;
+  padding-bottom: 1em;
   border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
-  padding-bottom: 10em;
+  padding-bottom: 1em;
   border-bottom: none;
 }
 
@@ -257,7 +257,7 @@ nav {
     border-left: none;
     padding-top: 0.1em;
     padding-bottom: 0.1em; 
-    padding-left: 10em;
+    padding-left: 4em;
     color: $gray;
     font-size: 16px;
     font-style: normal;
