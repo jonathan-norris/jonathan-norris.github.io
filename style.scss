@@ -245,6 +245,10 @@ nav {
 .posts > .post {
   padding-bottom: 0.5em;
   border-bottom: 1px solid $lightGray;
+
+  hr {
+  background-color: #ccc;
+  }
 }
 
 .posts > .post:last-child {
@@ -272,10 +276,6 @@ a {
   &:hover, &:active {
     color: $blue;
   }
-}
-
-hr {
-  color: $lightGray;
 }
 
   .comments {
