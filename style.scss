@@ -261,6 +261,16 @@ nav {
     font-style: normal;
   }
 
+a {
+  color: $blue;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 16px;
+  &:hover, &:active {
+    color: $blue;
+  }
+}
+
   .comments {
     margin-top: 10px;
   }
