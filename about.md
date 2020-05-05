@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: jonathan-norris.github.io
 ---
 
 Hi and welcome. I work in applied economics with projects on a range of topics including skill development, parenting, and mental health. Links to my work and project files are included where available. Thanks for dropping by!
