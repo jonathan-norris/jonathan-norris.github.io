@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
-Some information about you!
+Hi and welcome. I work in applied economics with projects on a range of topics including skill development, parenting, and mental health. Links to my work are included where ready. Thanks for dropping by!
 
-### More Information
+### Contact Me and CV
 
-A place to include any other types of information that you'd like to include about yourself.
+[jonathan.norris@strath.ac.uk](mailto:jonathan.norris@strath.ac.uk)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<a href = "{{ site.baseurl }}/files/cv_norris.pdf"><b> CV </b> </a>
