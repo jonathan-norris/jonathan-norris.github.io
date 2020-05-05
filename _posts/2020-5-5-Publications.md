@@ -2,6 +2,7 @@
 layout: post
 title: Publications
 permalink: /research/
+date: 2020-5-5
 ---
 
 **Peers Parents and Attitudes about School** (*forthcoming at Journal of Human Capital*)
