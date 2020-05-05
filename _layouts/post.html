@@ -3,14 +3,28 @@ layout: default
 permalink: /research/
 ---
 
-<article class="post">
+<div class="posts">
   {% for post in site.posts %}	
-  <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+<article class="post">
+  <h2>{{ page.title }}</h2>
   <hr>
 
   <div class="entry">
     {{ content }}
   </div>
-{% endfor %}
 </article>
+{% endfor %}
+</div>
 
+<!-- <div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+    </article>
+  {% endfor %}
+</div> -->
