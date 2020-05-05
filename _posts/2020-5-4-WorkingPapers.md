@@ -23,7 +23,7 @@ date: 2020-5-4
 >*Revision Requested at the Economics of Education Review. Working Paper Coming Soon*
 
 **Peers and Mental Health**
->With [Lukas Kiessling](https://lukaskiessling.github.io/)
+>[With Lukas Kiessling](https://lukaskiessling.github.io/)
 
 >In this paper, we study the effects of the school environment on students' mental health. Guided by a theoretical framework, we find that having a better rank in school improves students' immediate mental health. In particular, moving a student from the 25th to the 75th percentile improves her mental health by 10-11\% of a standard deviation conditional on ability and the peer composition. These effects are more pronounced for low-ability students, persistent for more than 20 years, and carry over to economic long-run outcomes. Moreover, we document a strong asymmetry in our effects: Our results are driven by individuals receiving negative rather than positive shocks. Our results therefore provide evidence on how features of the school environment can have long-lasting consequences for individuals' well-being.
 
