@@ -5,7 +5,7 @@ permalink: /research/
 
 <article class="post">
   {% for post in site.posts %}	
-  <h2>{{ page.title }}</h2>
+  <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
   <hr>
 
   <div class="entry">
@@ -13,3 +13,4 @@ permalink: /research/
   </div>
 {% endfor %}
 </article>
+
