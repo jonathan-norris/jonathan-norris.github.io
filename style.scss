@@ -242,7 +242,7 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 1em;
+  padding-bottom: 0.5em;
   border-bottom: 1px solid $lightGray;
 }
 
@@ -253,7 +253,7 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;  
+    margin: .8em .8em;  
     border-left: none;
     padding-left: .2em;
     color: $gray;
@@ -262,8 +262,7 @@ nav {
   }
 
 .link {
-  margin-top: -20px;
-  padding-bottom: 0.2em;
+  padding-bottom: 10em;
 }
 
   .comments {
