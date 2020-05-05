@@ -19,12 +19,12 @@ permalink: /research/
 
 >In this paper, we study the evolution of cognitive and noncognitive skills gaps for children of immigrants between kindergarten and 5th grade using two recent cohorts of elementary school students. We find some evidence that children of immigrants begin school with lower math scores than children of natives, but this gap disappears in later elementary school. For noncognitive skills, children of immigrants and children of natives score similarly in early elementary school, but a positive gap opens up in 2nd grade. We find that the growth in noncognitive skills is driven by disadvantaged immigrant students. We discuss potential explanations for the observed patterns of skill development as well as the implications of our results for the labor market prospects of children of immigrants.
 
->*Revision Requested at the Economics of Education Review. Updated Working Paper Coming Soon*
+>*Revision Requested at the Economics of Education Review. Working Paper Coming Soon*
 
 **Peers and Mental Health**
 >With [Lukas Kiessling](https://lukaskiessling.github.io/)
 
 >In this paper, we study the effects of the school environment on students' mental health. Guided by a theoretical framework, we find that having a better rank in school improves students' immediate mental health. In particular, moving a student from the 25th to the 75th percentile improves her mental health by 10-11\% of a standard deviation conditional on ability and the peer composition. These effects are more pronounced for low-ability students, persistent for more than 20 years, and carry over to economic long-run outcomes. Moreover, we document a strong asymmetry in our effects: Our results are driven by individuals receiving negative rather than positive shocks. Our results therefore provide evidence on how features of the school environment can have long-lasting consequences for individuals' well-being.
 
-*Working Paper Coming Soon*
+>*Working Paper Coming Soon*
 
