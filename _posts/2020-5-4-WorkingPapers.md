@@ -20,13 +20,13 @@ date: 2020-5-4
 
 >In this paper, we study the evolution of cognitive and noncognitive skills gaps for children of immigrants between kindergarten and 5th grade using two recent cohorts of elementary school students. We find some evidence that children of immigrants begin school with lower math scores than children of natives, but this gap disappears in later elementary school. For noncognitive skills, children of immigrants and children of natives score similarly in early elementary school, but a positive gap opens up in 2nd grade. We find that the growth in noncognitive skills is driven by disadvantaged immigrant students. We discuss potential explanations for the observed patterns of skill development as well as the implications of our results for the labor market prospects of children of immigrants.
 
->*Revision Requested at the Economics of Education Review. Working Paper Coming Soon*
+[**Current Version**]({{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf)
 
 **Peers and Mental Health**
 
 [**with Lukas Kiessling**](https://lukaskiessling.github.io/)
 
->In this paper, we study the effects of the school environment on students' mental health. Guided by a theoretical framework, we find that having a better rank in school improves students' immediate mental health. In particular, moving a student from the 25th to the 75th percentile improves her mental health by 10-11\% of a standard deviation conditional on ability and the peer composition. These effects are more pronounced for low-ability students, persistent for more than 20 years, and carry over to economic long-run outcomes. Moreover, we document a strong asymmetry in our effects: Our results are driven by individuals receiving negative rather than positive shocks. Our results therefore provide evidence on how features of the school environment can have long-lasting consequences for individuals' well-being.
+>This paper studies how peers in school affect students' mental health. Guided by a theoretical framework, we find that increasing students’ relative ranks in their cohorts by one standard deviation improves their mental health by 6\% of a standard deviation conditional on own ability. These effects are more pronounced for low-ability students, persistent for at least 14 years, and carry over to economic long-run outcomes. Moreover, we document a strong asymmetry: Students who receive negative rather than positive shocks react more strongly. Our findings therefore provide evidence on how the school environment can have long-lasting consequences for the well-being of individuals.
 
->*Working Paper Coming Soon*
+[**Current Version**]({{site.baseurl}}/files/kiessling_norris_WP_062020.pdf)
 
