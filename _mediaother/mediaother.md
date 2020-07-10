@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-permalink: /mediaother/
+title: Other Writings and Presentations
+permalink: /mediaadd/
 ---
 
 **The Economics of Parenting: Children and Inequality at a time of shutdown. Fraser of Allander Commentary 44, no. 2 (2020).**
