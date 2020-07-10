@@ -2,6 +2,7 @@
 layout: post
 title: Other Writings and Presentations
 permalink: /mediaadd/
+--data: 2020-7-10
 ---
 
 **The Economics of Parenting: Children and Inequality at a time of shutdown. Fraser of Allander Commentary 44, no. 2 (2020).**
@@ -16,4 +17,5 @@ Emma Congreve and I discuss what the research can tell us about the multi-facted
 
 Hosted by Mairi Spowage and joined by Emma Congreve we discuss how the pandemic highlights a number salient issues related to inequality. 
 
-[**Google Podcasts**]({{https://podcasts.google.com/feed/aHR0cHM6Ly9mcmFzZXJvZmFsbGFuZGVyLm9yZy9wb2RjYXN0L2ZlZWQv/episode/aHR0cHM6Ly9mcmFzZXJvZmFsbGFuZGVyLm9yZy8_cG9zdF90eXBlPXBvZGNhc3QmcD02MDQ2?ved=2ahUKEwjQj4rKxcLqAhUH8RoKHd0vAZQQkfYCegQIARAF}}) | [**Stitcher**]({{https://www.stitcher.com/podcast/fraser-of-allander-institute-podcast}})
+[**Google Podcasts**]({{https://podcasts.google.com/feed/aHR0cHM6Ly9mcmFzZXJvZmFsbGFuZGVyLm9yZy9wb2RjYXN0L2ZlZWQv/episode/aHR0cHM6Ly9mcmFzZXJvZmFsbGFuZGVyLm9yZy8_cG9zdF90eXBlPXBvZGNhc3QmcD02MDQ2?ved=2ahUKEwjQj4rKxcLqAhUH8RoKHd0vAZQQkfYCegQIARAF}})  
+[**Stitcher**]({{https://www.stitcher.com/podcast/fraser-of-allander-institute-podcast}})
