@@ -13,7 +13,8 @@ data: 2020-7-10
 
 [**Available Here**]({{https://fraserofallander.org/wp-content/uploads/2020/06/The-Economics-of-Parenting-emma-and-jonathan-formatted.pdf}})
 
-**The Fraser of Allander Institute Podcast. Topic: Poverty, Educational Attainment, and Covid-19.**
+**The Fraser of Allander Institute Podcast.** 
+**Topic: Poverty, Educational Attainment, and Covid-19.**
 
  >Hosted by Mairi Spowage and joined by Emma Congreve we discuss how the pandemic highlights a number salient issues related to inequality. 
 
