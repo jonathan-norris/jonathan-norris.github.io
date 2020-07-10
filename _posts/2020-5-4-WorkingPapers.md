@@ -22,7 +22,7 @@ date: 2020-5-4
 
 [**Current Version**]({{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf)
 
-**Peers and Mental Health**
+**The Long-Run Effects of Peers on Mental Health**
 
 [**with Lukas Kiessling**](https://lukaskiessling.github.io/)
 
