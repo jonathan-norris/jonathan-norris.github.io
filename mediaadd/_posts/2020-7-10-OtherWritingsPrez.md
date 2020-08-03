@@ -9,7 +9,7 @@ data: 2020-7-10
 
 [**with Emma Congreve**](https://www.strath.ac.uk/staff/congreveemmams/) 
 	
->Emma Congreve and I discuss what the research can tell us about the multi-facted links between childhood skill development, parental parenting opportunities, and inequality. We highlight the key factors for policy to consider in a time of both a health crises from the Covid-19 pandemic and a potential economic crises. 
+>Emma Congreve and I discuss what current research can tell us about the multi-facted links between childhood skill development, parental parenting opportunities, and inequality. We highlight the key factors for policy to consider in a time of both a health crises from the Covid-19 pandemic and a potential economic crises. 
 
 [**Available Here**](https://fraserofallander.org/wp-content/uploads/2020/06/The-Economics-of-Parenting-emma-and-jonathan-formatted.pdf)
 

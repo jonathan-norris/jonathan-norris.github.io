@@ -5,7 +5,15 @@ permalink: /research/
 date: 2020-5-5
 ---
 
-**Peers Parents and Attitudes about School** (*forthcoming at Journal of Human Capital*)
+**The Skill Development of the Children of Immigrants** (*forthcoming at Economics of Education Review*)
+
+ [**with Marie Hull**](https://sites.google.com/view/mariehull/home)
+
+>In this paper, we study the evolution of cognitive and noncognitive skills gaps for children of immigrants between kindergarten and 5th grade using two recent cohorts of elementary school students. We find some evidence that children of immigrants begin school with lower math scores than children of natives, but this gap disappears in later elementary school. For noncognitive skills, children of immigrants and children of natives score similarly in early elementary school, but a positive gap opens up in 2nd grade. We find that the growth in noncognitive skills is driven by disadvantaged immigrant students. We discuss potential explanations for the observed patterns of skill development as well as the implications of our results for the labor market prospects of children of immigrants.
+
+[**Current Version (final submission)**]({{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf)
+
+**Peers, Parents, and Attitudes about School," Journal of Human Capital 14, no. 2 (Summer 2020): 290-342**
 
 >Educational attitudes are linked to long-term educational success through motivating effort and greater attention to the future. This study focuses on the role of friends and of parents in the school grade cohort in shaping adolescent attitude development. First, I explore the effect of friends' attitudes on an adolescent's attitudes. Second, I ask whether parental investments and educational expectations in the adolescent's school cohort can moderate the influence of friends on attitudes. I find that adolescents’ attitudes about school respond to friends’ attitudes and that parental educational expectations within a cohort can moderate the influence of friends on attitudes.
 
