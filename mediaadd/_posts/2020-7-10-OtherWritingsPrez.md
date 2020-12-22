@@ -1,6 +1,6 @@
 ---
 layout: mediaadd
-title: Other Writings and Presentations
+title: Additional Materials
 permalink: /mediaadd/
 data: 2020-7-10
 ---

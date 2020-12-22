@@ -1,0 +1,78 @@
+{smcl}
+{* *! version 1.0 02Dec2020}{...}
+{viewerdialog wildrw "dialog wildrw"}{...}
+{viewerjumpto "Syntax" "wildrw##syntax"}{...}
+{viewerjumpto "Description" "wildrw##description"}{...}
+{viewerjumpto "Options" "wildrw##options"}{...}
+{viewerjumpto "Examples" "wildrw##examples"}{...}
+
+{p2col:{bf:wildrw}} Romano Wolf p-value adjustment with a wild bootstrap
+
+{marker syntax}{...}
+{title:Syntax}
+{p 8 17 2}
+{cmd:wildrw} {depvars}{cmd:,} {it:options} 
+
+
+{synoptset 20 tabbed}{...}
+{synopthdr}
+{synoptline}
+{syntab:Required}
+{synopt:{opt adj:vars(varlist)}}independent variable to be adjusted; 
+	currently only one allowed{p_end}
+{synopt:{opt mcon:trols1(varlist)}}model controls specification 1{p_end}
+{synopt:{opt a:bsorb(varlist)}}group identifier for absorbed fixed effects; 
+	currently must be included and only at one level{p_end}
+{synopt:{opt clu:ster(varlist)}}group identifier for clustering standard errors; 
+	currently must be defined{p_end}
+{synopt:{opt reps(numlist)}}integer value for number of reps;
+	the wild cluster must be set to an odd number{p_end}
+{syntab:Optional}
+{synopt:{opth mcontrols2(varlist)}}model controls specification 2{p_end}
+{synopt:{opth mcontrols3(varlist)}}model controls specification 3{p_end}
+{synopt:{opth mcontrols4(varlist)}}model controls specification 4{p_end}
+{synopt:{opth seed(numlist)}}set the seed{p_end}
+{synopt:{opth method(namelist)}}can either be areg or nbreg;
+	if defined must be listed in order corressponding to it's position on the outcome list;
+	if this option is omitted the default for all outcomes is areg {p_end}
+{synopt:{opth sampby(varlist)}}must be a binary indicator;
+	this option runs each regression on the sub-samples defined by the indicator{p_end}
+{synoptline}
+{p2colreset}{...}
+{p 4 6 2}
+
+{marker menu}{...}
+{title:Menu}
+{phang}{bf:User > Testing > RW Multiple Hypothesis Adjustment with a Wild bootstrap}
+
+{marker description}{...}
+{title:Description}
+{pstd}
+{cmd:wildrw} implements the Romano Wolf {it:p-value} adjustment for multiple hypothesis testing 
+developed in Romano and Wolf (2005) via the algorithm described in Romano and Wolf (2016) and
+based on the simulated {it:t-values} from a wild cluster boostrap. The wild cluster boostrap relies on 
+the user written {it:bootest} command (Roodman, MacKinnon, and Webb 2018). 
+
+{pstd} 
+Options are available allowing up to four different specifications through which the 
+{it:p-values} of the estimate will be adjusted for the adjusted variable across outcomes and
+specifications. Additionally, the {it:sampby} option allows the specifications to be split or the 
+levels of a binary group (e.g. gender) and the adjustment to be calculated. 
+
+{pstd} 
+{bf:wildrw} lacks functionality to incorporate multiple levels of fixed effects. It would 
+be feasible to incorporate {it:reghdfe}, but this not currently implemented.
+
+{marker references}{...}
+{title:References}
+{phang}
+Romano, Joseph P., and Michael Wolf. "Stepwise multiple testing as formalized data snooping." Econometrica 73, no. 4 (2005): 1237-1282.
+
+{phang}
+Romano, Joseph P., and Michael Wolf. "Efficient computation of adjusted p-values for resampling-based stepdown multiple testing." Statistics & Probability Letters 113 (2016): 38-40.
+
+{phang}
+Roodman, David, Morten Ørregaard Nielsen, James G. MacKinnon, and Matthew D. Webb. "Fast and wild: Bootstrap inference in Stata using boottest." The Stata Journal 19, no. 1 (2019): 4-60.
+
+
+
