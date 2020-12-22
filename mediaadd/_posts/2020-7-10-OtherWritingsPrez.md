@@ -23,7 +23,7 @@ data: 2020-7-10
 
 **How is coronavirus affecting the mental health of adolescents?**
 
-	An article I wrote for the *Economics Observatory* website, who provide information from academic research on a variety of topics related to challenges from Covid-19. 
+>An article I wrote for the *Economics Observatory* website, who provide information from academic research on a variety of topics related to challenges from Covid-19. 
 
 [**Economics Observatory**](https://www.coronavirusandtheeconomy.com/question/how-coronavirus-affecting-mental-health-adolescents)
 
