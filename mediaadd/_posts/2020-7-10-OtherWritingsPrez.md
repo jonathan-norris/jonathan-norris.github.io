@@ -1,7 +1,7 @@
 ---
 layout: mediaadd
 title: Additional Materials
-permalink: /mediaadd/
+permalink: /addmat/
 data: 2020-7-10
 ---
 

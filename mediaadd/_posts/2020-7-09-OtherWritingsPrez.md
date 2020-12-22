@@ -1,7 +1,7 @@
 ---
 layout: mediaadd
 title: Statistical Packages
-permalink: /mediaadd/
+permalink: /addmat/
 data: 2020-7-09
 ---
 
