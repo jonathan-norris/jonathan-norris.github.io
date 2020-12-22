@@ -20,3 +20,14 @@ data: 2020-7-10
 [**Google Podcasts**](https://podcasts.google.com/feed/aHR0cHM6Ly9mcmFzZXJvZmFsbGFuZGVyLm9yZy9wb2RjYXN0L2ZlZWQv/episode/aHR0cHM6Ly9mcmFzZXJvZmFsbGFuZGVyLm9yZy8_cG9zdF90eXBlPXBvZGNhc3QmcD02MDQ2?ved=2ahUKEwjQj4rKxcLqAhUH8RoKHd0vAZQQkfYCegQIARAF)  
 
 [**Stitcher**](https://www.stitcher.com/podcast/fraser-of-allander-institute-podcast)
+
+**How is coronavirus affecting the mental health of adolescents?**
+
+	An article I wrote for the *Economics Observatory* website, who provide information from academic research on a variety of topics related to challenges from Covid-19. 
+
+[**Economics Observatory**](https://www.coronavirusandtheeconomy.com/question/how-coronavirus-affecting-mental-health-adolescents)
+
+
+
+
+

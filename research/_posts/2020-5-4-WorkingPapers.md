@@ -22,3 +22,5 @@ date: 2020-5-4
 
 [**Current Version**]({{site.baseurl}}/files/kiessling_norris_WP_062020.pdf)
 
+[**Media Coverage**](https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html)
+
