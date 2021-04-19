@@ -24,3 +24,11 @@ date: 2020-5-4
 
 [**Media Coverage**](https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html)
 
+
+**Peer Gender and Schooling: Evidence from Ethiopia**
+
+[**with Daniel Borbely**](https://sites.google.com/view/danielborbely/home) & [**Agnese Romiti**](https://sites.google.com/view/agneseromiti/home)
+
+>In this paper, we study how classmate gender composition matters for students in Ethiopia. We base our results on a unique survey of students across classrooms and schools and among those randomly assigned to class. We find a strong asymmetry: males do not and females do benefit from exposure to more female classmates with less school absence and improvement on math test scores. We further find that exposure to more female classmates improves motivation and participation in class, and in general, that the effects of classmate gender composition are consistent with social interaction effects.
+
+

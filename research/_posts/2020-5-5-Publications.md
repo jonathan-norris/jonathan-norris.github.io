@@ -5,7 +5,7 @@ permalink: /research/
 date: 2020-5-5
 ---
 
-**The Skill Development of the Children of Immigrants** (*forthcoming at Economics of Education Review*)
+**The Skill Development of the Children of Immigrants. Economics of Education Review 78 (2020): 102036** 
 
  [**with Marie Hull**](https://sites.google.com/view/mariehull/home)
 
@@ -13,7 +13,7 @@ date: 2020-5-5
 
 [**Current Version (final submission)**]({{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf)
 
-**Peers, Parents, and Attitudes about School," Journal of Human Capital 14, no. 2 (Summer 2020): 290-342**
+**Peers, Parents, and Attitudes about School. Journal of Human Capital 14, no. 2 (Summer 2020): 290-342**
 
 >Educational attitudes are linked to long-term educational success through motivating effort and greater attention to the future. This study focuses on the role of friends and of parents in the school grade cohort in shaping adolescent attitude development. First, I explore the effect of friends' attitudes on an adolescent's attitudes. Second, I ask whether parental investments and educational expectations in the adolescent's school cohort can moderate the influence of friends on attitudes. I find that adolescents’ attitudes about school respond to friends’ attitudes and that parental educational expectations within a cohort can moderate the influence of friends on attitudes.
 
