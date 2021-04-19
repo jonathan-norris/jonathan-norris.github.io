@@ -31,4 +31,5 @@ date: 2020-5-4
 
 >In this paper, we study how classmate gender composition matters for students in Ethiopia. We base our results on a unique survey of students across classrooms and schools and among those randomly assigned to class. We find a strong asymmetry: males do not and females do benefit from exposure to more female classmates with less school absence and improvement on math test scores. We further find that exposure to more female classmates improves motivation and participation in class, and in general, that the effects of classmate gender composition are consistent with social interaction effects.
 
+[**Current Version**]({{site.baseurl}}/files/peergender_wp)
 
