@@ -21,7 +21,7 @@ The Skill Development of the Children of Immigrants. Economics of Education Revi
 
 &nbsp;&nbsp;&nbsp;[**Current Version (final submission)**]({{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf)
 
-**Peers, Parents, and Attitudes about School. Journal of Human Capital 14, no. 2 (Summer 2020): 290-342**
+Peers, Parents, and Attitudes about School. Journal of Human Capital 14, no. 2 (Summer 2020): 290-342
 
 <details>
 	<summary><b>Abstract </b></summary>
@@ -36,7 +36,7 @@ The Skill Development of the Children of Immigrants. Economics of Education Revi
 <a href = "{{ site.baseurl }}/files/ppa_norris_jhcfinal.pdf"><b>Current Version (final submission) </b> </a> 
 </dl> -->
 
-**Identity Economics: Social Influence and Skill Development. Journal of Economic Surveys 33, no. 5 (2019): 1389-1408**
+Identity Economics: Social Influence and Skill Development. Journal of Economic Surveys 33, no. 5 (2019): 1389-1408
 
 <details>
 	<summary><b>Abstract </b></summary>
