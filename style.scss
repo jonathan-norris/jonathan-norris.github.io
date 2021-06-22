@@ -294,7 +294,8 @@ a {
   text-decoration: none;
   cursor: pointer;
   font-size: 16px;
-  margins-right: 0.5px;
+  margins-left: 2px;
+  margins-right: 2px;
   &:hover, &:active {
     color: $blue;
   }
