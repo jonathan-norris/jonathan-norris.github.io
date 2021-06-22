@@ -30,7 +30,7 @@ date: 2020-5-4
 &nbsp;&nbsp;&nbsp;[**Current Version**]({{site.baseurl}}/files/kiessling_norris_WP_062020.pdf) | &nbsp;&nbsp;[**Media Coverage**](https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html)
 
 
-**Peer Gender and Schooling: Evidence from Ethiopia ([with Daniel Borbely](https://sites.google.com/view/danielborbely/home) and [**Agnese Romiti**](https://sites.google.com/view/agneseromiti/home))**
+**Peer Gender and Schooling: Evidence from Ethiopia ([with Daniel Borbely](https://sites.google.com/view/danielborbely/home) and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home))**
 
 <details>
 	<summary><b>Abstract </b></summary>
