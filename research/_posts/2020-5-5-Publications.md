@@ -7,10 +7,12 @@ date: 2020-5-5
 
 **The Skill Development of the Children of Immigrants. Economics of Education Review 78 (2020): 102036. [(with Marie Hull)](https://sites.google.com/view/mariehull/home)** 
 
-><details>
+<details>
 		<summary>Abstract</summary>
 
+		<p>
 		In this paper, we study the evolution of cognitive and noncognitive skills gaps for children of immigrants between kindergarten and 5th grade using two recent cohorts of elementary school students. We find some evidence that children of immigrants begin school with lower math scores than children of natives, but this gap disappears in later elementary school. For noncognitive skills, children of immigrants and children of natives score similarly in early elementary school, but a positive gap opens up in 2nd grade. We find that the growth in noncognitive skills is driven by disadvantaged immigrant students. We discuss potential explanations for the observed patterns of skill development as well as the implications of our results for the labor market prospects of children of immigrants.
+		<p>
 </details>
 
 [**Current Version (final submission)**]({{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf)
