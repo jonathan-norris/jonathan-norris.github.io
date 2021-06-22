@@ -31,6 +31,10 @@ Peers, Parents, and Attitudes about School. Journal of Human Capital 14, no. 2 (
 		</p>
 </details>
 
+<details>
+	<summary> <a href="{{site.baseurl}}/files/ppa_norris_jhcfinal.pdf" style="font-weight:bold;color:#4183C4">Current Version (final submission)</a> </summary>
+</details>
+
 &nbsp;&nbsp;&nbsp;[**Current Version (final submission)**]({{site.baseurl}}/files/ppa_norris_jhcfinal.pdf)
 <!-- <dl>
 <a href = "{{ site.baseurl }}/files/ppa_norris_jhcfinal.pdf"><b>Current Version (final submission) </b> </a> 
