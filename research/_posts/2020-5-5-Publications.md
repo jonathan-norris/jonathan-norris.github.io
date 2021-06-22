@@ -15,7 +15,7 @@ The Skill Development of the Children of Immigrants. Economics of Education Revi
 		</p>
 </details> 
 
-<details style="color:IndianRed">
+<details>
 	<summary> <a href="{{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf" style="font-weight:bold;color:IndianRed">Current Version (final submission)</a> </summary>
 </details>
 
