@@ -295,14 +295,14 @@ details > p {
 
 a {
   display: inline-block;
-  color: $blue;
+  color: $nicered;
   text-decoration: none;
   cursor: pointer;
   font-size: 16px;
   margins-left: 2px;
   margins-right: 2px;
   &:hover, &:active {
-    color: $blue;
+    color: $nicered;
   }
 }
 
