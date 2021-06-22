@@ -266,8 +266,9 @@ details > summary {
   margin: 0em .8em;  
   border-left: none;
   padding-left: .2em;
-  color: $nicered; 
+  color: $blue; 
   font-size: 16px;
+  visibility: hidden;
 }
 
 details > p {
