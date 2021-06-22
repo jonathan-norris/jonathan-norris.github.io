@@ -290,14 +290,14 @@ details > p {
 
 a {
   display: inline-block;
-  color: $darkGray;
+  color: $blue;
   text-decoration: none;
   cursor: pointer;
   font-size: 16px;
   margins-left: 2px;
   margins-right: 2px;
   &:hover, &:active {
-    color: $darkGray;
+    color: $blue;
   }
 }
 
