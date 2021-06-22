@@ -19,7 +19,7 @@ date: 2020-5-5
 	<summary> <a href="{{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf" style="font-weight:bold;color:IndianRed">Current Version (final submission)</a> </summary>
 </details>
 
-&nbsp;&nbsp;&nbsp;[**Current Version (final submission)**]({{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf)
+<!-- &nbsp;&nbsp;&nbsp;[**Current Version (final submission)**]({{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf) -->
 
 Peers, Parents, and Attitudes about School. Journal of Human Capital 14, no. 2 (Summer 2020): 290-342
 
