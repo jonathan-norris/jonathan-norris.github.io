@@ -268,6 +268,11 @@ details > summary {
   padding-left: .2em;
   color: $blue; 
   font-size: 16px;
+  list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
 }
 
 details > p {
