@@ -5,7 +5,7 @@ permalink: /research/
 date: 2020-5-5
 ---
 
-The Skill Development of the Children of Immigrants. Economics of Education Review 78 (2020): 102036. (with <a href="https://sites.google.com/view/mariehull/home" style="color:$blue" style="font-weight:bold">Marie Hull</a>)
+The Skill Development of the Children of Immigrants. Economics of Education Review 78 (2020): 102036. (with <a href="https://sites.google.com/view/mariehull/home" style="color:blue" style="font-weight:bold">Marie Hull</a>)
 
 <details>
 	<summary><b>Abstract </b></summary>
