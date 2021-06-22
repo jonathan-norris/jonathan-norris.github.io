@@ -5,7 +5,7 @@ permalink: /research/
 date: 2020-5-4
 ---
 
-Troubled in School: Does Maternal Involvement Matter for Adolescents (with **[Martijn van Hasselt](https://bryan.uncg.edu/faculty-and-staff/van-hasselt-martijn-nicolaas-pieter-n/)**) 
+**Troubled in School: Does Maternal Involvement Matter for Adolescents** (with **[Martijn van Hasselt](https://bryan.uncg.edu/faculty-and-staff/van-hasselt-martijn-nicolaas-pieter-n/)**) 
 
 <details>
 	<summary><b>Abstract</b></summary>
@@ -21,7 +21,7 @@ Troubled in School: Does Maternal Involvement Matter for Adolescents (with **[Ma
 
 <!-- &nbsp;&nbsp;&nbsp;[**Current Version (updated 14 May 2021)**]({{site.baseurl}}/files/schtrouble.pdf) -->
 
-The Long-Run Effects of Peers on Mental Health (with **[Lukas Kiessling](https://lukaskiessling.github.io/)**)
+**The Long-Run Effects of Peers on Mental Health** (with **[Lukas Kiessling](https://lukaskiessling.github.io/)**)
 
 <details>
 	<summary><b>Abstract</b></summary>
@@ -38,7 +38,7 @@ The Long-Run Effects of Peers on Mental Health (with **[Lukas Kiessling](https:/
 <!-- &nbsp;&nbsp;&nbsp;[**Current Version**]({{site.baseurl}}/files/kiessling_norris_WP_062020.pdf) | &nbsp;&nbsp;[**Media Coverage**](https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html)  -->
 
 
-Peer Gender and Schooling: Evidence from Ethiopia (with **[Daniel Borbely](https://sites.google.com/view/danielborbely/home)** and **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**)
+**Peer Gender and Schooling: Evidence from Ethiopia** (with **[Daniel Borbely](https://sites.google.com/view/danielborbely/home)** and **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**)
 
 <details>
 	<summary><b>Abstract</b></summary>
