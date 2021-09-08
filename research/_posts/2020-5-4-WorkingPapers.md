@@ -21,7 +21,7 @@ date: 2020-5-4
 
 <!-- &nbsp;&nbsp;&nbsp;[**Current Version (updated 14 May 2021)**]({{site.baseurl}}/files/schtrouble.pdf) -->
 
-**The Long-Run Effects of Peers on Mental Health** (with **[Lukas Kiessling](https://lukaskiessling.github.io/)**)
+**The Long-Run Effects of Peers on Mental Health** (with **[Lukas Kiessling](https://lukaskiessling.github.io/)**). Revision requested at the Economic Journal.
 
 <details>
 	<summary><b>Abstract</b></summary>
