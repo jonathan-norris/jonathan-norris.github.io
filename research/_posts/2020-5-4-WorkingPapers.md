@@ -32,7 +32,7 @@ date: 2020-5-4
 </details>
 
 <details>
-	<summary> <a href="{{site.baseurl}}/files/kiessling_norris_WP_062020.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> &nbsp;&nbsp; <a href="https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html" style="font-weight:bold;color:#4183C4">Media Coverage</a> </summary>
+	<summary> <a href="{{site.baseurl}}/files/kiessling_norris_WP_122021.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> &nbsp;&nbsp; <a href="https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html" style="font-weight:bold;color:#4183C4">Media Coverage</a> </summary>
 </details>
 
 <!-- &nbsp;&nbsp;&nbsp;[**Current Version**]({{site.baseurl}}/files/kiessling_norris_WP_062020.pdf) | &nbsp;&nbsp;[**Media Coverage**](https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html)  -->
