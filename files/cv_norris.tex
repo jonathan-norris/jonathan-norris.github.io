@@ -1,16 +1,44 @@
-\documentclass[12pt,a4paper]{article}
+\documentclass[11pt,a4paper]{article}
 
 
 \usepackage[utf8]{inputenc}
-\usepackage[margin=0.5 in]{geometry}
+% \usepackage[margin=0.5 in]{geometry}
+%\usepackage[a4paper,left=3.81cm,right=3.81cm,top=3.81cm,bottom=3.81cm]{geometry}
+%\usepackage[a4paper,left=3.75cm,right=3.75cm,top=3.75cm,bottom=4.2cm]{geometry}
+\usepackage[a4paper,left=2.54cm,right=2.54cm,top=2.54cm,bottom=2.54cm]{geometry}
+\usepackage[dvipsnames]{xcolor}
+\definecolor{midblue}{RGB}{0,128,255}
+\definecolor{midblue_light}{RGB}{127,191,255}
+\definecolor{midblue_dark}{RGB}{0,84,170}
+\definecolor{cranberry}{RGB}{193,5,52}
+\definecolor{cranberry_light}{RGB}{223,129,153}
+\definecolor{cranberry_dark}{RGB}{128,2,34}
+\definecolor{navy}{RGB}{30,45,83}
 \usepackage[hidelinks]{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=cranberry
+    }
 \urlstyle{same}
+\usepackage{setspace}
+\usepackage{threeparttable,tabularx,ltxtable,longtable,tabu,float,caption,booktabs,dcolumn,eurosym,lscape,authblk,setspace}
 % Setting Fonts
 % \usepackage{mathspec}					% This loades the fontspec package as well
 % %\usepackage{fontspec}
 % \defaultfontfeatures{Ligatures=TeX}
 % %\usepackage[sf,big,bf]{titlesec}
 % %\usepackage{titling}
+
+% Fonts
+\usepackage[sups]{XCharter}% lining figures in math, osf in text
+\usepackage[scaled=1.04,varqu,varl]{inconsolata}% inconsolata typewriter
+\usepackage[type1, scaled=0.95]{cabin}% sans serif
+\usepackage[libertine,vvarbb,scaled=1.07]{newtxmath}
+\usepackage[cal=boondoxo]{mathalfa}
+%\linespread{1.04}
+\usepackage[activate={true,nocompatibility},final,tracking=true,kerning=true,spacing=true,factor=1100,stretch=10,shrink=10]{microtype}
+\usepackage{anyfontsize}
 
 \usepackage{tikz}
 \usepackage{enumitem}
@@ -31,168 +59,233 @@
 \pagenumbering{gobble}
 \begin{document}
 	
-	\begin{center}
+\begin{center}
 
-	\textsf{{\LARGE\textbf{Jonathan Lee Norris}}}		
-	\smallskip	
+\textsf{{\Large\textbf{Jonathan Lee Norris}}}		
+\smallskip	
 	
-	\textsf{{\Large \textbf{Curriculum Vitae}}} 
-	\smallskip
+\textsf{{\Large \textbf{Curriculum Vitae}}} 
+\smallskip
 	
-	\textsf{jonathan.norris@strath.ac.uk}
+\textsf{jonathan.norris@strath.ac.uk}
 
-	\textsf{\url{https://www.strath.ac.uk/staff/norrisjonathandr/}}	
-	\end{center}	
+\textsf{\url{https://jonathan-norris.github.io/}}	
+\end{center}	
 	% \hrule height 1pt
 
-	\bigskip
+\bigskip
 
-	\noindent {\textbf{\textsf{\large Current Post}}} \vspace{0.1cm} \hrule \vspace{0.2cm}
+\begin{longtable}{l l}
+% \begin{tabular}{l l}
+\textbf{Current Post}  &  \textit{Lecturer} at the University of Strathclyde Department of Economics  \\
+                                       &  \\
+\textbf{Education}      &   2018 PhD in Economics, \textit{UNC Greensboro}	  \\
+																			 &   2013 Master of Arts in Applied Economics, \textit{UNC Greensboro}    \\
+																			 &   2012 Bachelor of Science in Economics, \textit{UNC Greensboro}	   \\
+																			 &   \\ 
+\textbf{Fields of}         &   Applied economics including education, family, and behavioural   \\ 
+\textbf{Interest}           &   economics with a focus on human capital development and inequality \\ 
+																			 &   \\
+\textbf{Publications}   &  The Long-Run Effects of Peers on Mental Health (\textit{with Lukas Kiessling})     \\
+																				&  forthcoming at \textit{The Economic Journal}, (2022), \href{https://doi.org/10.1093/ej/ueac039}{doi}  \\ 
+\addlinespace
+																				&  Peer Gender and School: Evidence from Ethiopia (\textit{with Daniel Borbely}    \\ 
+																				&  \textit{\& Agnese Romiti}) accepted at the \textit{Journal of Human Capital}, (2022)    \\ 
+\addlinespace
+																				&  Peers, Parents, and Attitudes about School. \textit{Journal of Human Capital}  \\
+																				&  14, no. 2 (2020): 290-342, \href{https://doi.org/10.1086/709507}{doi}  \\   
+\addlinespace						
+																				&  The Skill Development of Children of Immigrants (\textit{with Marie Hull}).  \\ 
+																				&  \textit{Economics of Education Review} 78 (2020): 102036, \href{https://doi.org/10.1016/j.econedurev.2020.102036}{doi}    \\			
+\addlinespace
+																				&  Identity Economics: Social Influence and Skill Development.     \\
+																				&  \textit{Journal of Economic Surveys} 33, no. 5 (2019): 1389-1408, \href{ https://doi.org/10.1111/joes.12331}{doi}		\\			
+																				&   \\
+\textbf{Working Papers}   &  Reference Dependent Aspirations and Peer Effects in Education  \\ 
+																							&  (\textit{with Marco Fongoni, Agnese Romiti, \& Zhan Shi, October 2022})   \\
+\addlinespace
+																							& Marijuana Legalisation and Mental Health (\textit{with Daniel Borbely,}  \\ 
+																							& \textit{Otto Lenhardt, \& Agnese Romiti, October 2022})   \\
+\addlinespace
+																							&  Troubled in School? Does Maternal Involvement Matter for Adolescents?  \\
+																							&  (\textit{with Martijn van Hasselt, 2021, R\&R at the Journal of Population Economics})  \\
+																							&  \\
+\textbf{Work in Progress} &  Asymmetry in Intensity and Persistence of Reciprocity in Labour Markets  \\ 
+																							&  (\textit{with Alex Dickson \& Marco Fongoni})   \\
+\addlinespace										
+																							&  Gender Norms and Working Time: Beliefs on Children's Human Capital  \\ 
+																							&  Accumulation and Perceived Compensating Wage Differentials Across Gender    \\
+																							& (\textit{with C\'esarine Boinet, Agnese Romiti, \& Zhan Shi})  \\
+																							&      \\
+\textbf{Knowledge}                      &  Information about a student’s academic rank can hurt their mental health  \\ 
+\textbf{Exchange} 									       &  – even if it’s not true. \href{https://bit.ly/3CVAiGP}{\textit{LSE USAPP Blogs}}. Published online 13 October 2022    \\
+\addlinespace
+																												 &  Update: How is coronavirus affecting the mental health of adolescents?    \\
+ 										 																		 &  \href{https://www.economicsobservatory.com/update-how-is-coronavirus-affecting-the-mental-health-of-adolescents}{\textit{Economics Observatory}}. Published online 8 September 2021    \\
+\addlinespace
+																												&  How is coronavirus affecting the mental health of adolescents?   \\
+																												&  \href{https://www.economicsobservatory.com/how-coronavirus-affecting-mental-health-adolescents}{\textit{Economics Observatory}}. Published online 31 August 2020  \\		
+\addlinespace
+																												&  The economics of parenting: children and inequality in a time of shutdown  \\ 
+																												& (\textit{with Emma Congreve}). Fraser of Allander Commentary 44, no. 2 (2020).  \\
+																												&   \\			
+\textbf{Awards}                            &  Economics Observatory Research Event Funding 2022 (CO-PI),   \\
+																												&  University of Bristol, \pounds5000. Joint with \textit{Stuart McIntyre} (PI)   \\ 
+																												&  and \textit{Graeme Roy} (CO-PI)   \\
+\addlinespace
+																												&  Student Excellence Award (PhD student funding) 2022,   \\
+																												&  University of Strathclyde, \pounds63394   \\
+\addlinespace
+																												& Teaching Excellence Award (student nominated), University of Strathclyde, 2022   \\																														
+\addlinespace
+																												&  Research Excellence Award (PhD student funding)	 2020,  \\
+																												&  University of Strathclyde, \pounds62079   \\																									
+                                                        &   \\
+\textbf{Conferences \&}             &  \textit{2022}: 37th National Conference of Labour Economics;    \\ 
+\textbf{Seminars}													&  Scottish Economic Society Annual Conference  \\
+\addlinespace
+																												&  \textit{2021}: Annual Conference of the European Society for Population  \\ 
+																												&  Economics (Virtual)  \\
+\addlinespace
+																												&  \textit{2020}: 2nd Workshop on Health and Inequality at Copenhagen   \\
+																												&  Business School (Virtual)  \\
+\addlinespace
+																												&  \textit{2019}: Seminar at UCD Geary Institute;   \\
+																												&  34th National Conference of Labour Economics;   \\
+																												&  The Society of the Economics of the Household 3rd Annual Meetings  \\
+\addlinespace																												
+																												& \textit{2016}: Southern Economics Association 86th Annual Meetings  \\																	 
+% \end{tabular}
+\end{longtable}
 
-		\noindent \tikz\draw[black,fill=white] (0,0) circle (.5ex); \textit{Lecturer}. The University of Strathclyde Department of Economics. 
+% % page 2
+% \begin{table}[!h]
+% \begin{tabular}{l l}
+																					
 
-	\bigskip	
+% \end{tabular}
+% \end{table}
 
-	\noindent \textbf{\textsf{{\large Education}}}   \vspace{0.1cm} \hrule \vspace{0.2cm}		
-		%\smallskip
-			\begin{itemize}
-			\item[$\circ$] 2018 PhD in Economics, \textit{UNC Greensboro}	
-			\item[$\circ$] 2013 Master of Arts in Applied Economics, \textit{UNC Greensboro}  
-			\item[$\circ$] 2012 Bachelor of Science in Economics, \textit{UNC Greensboro}	
-			\end{itemize}
 
-	\bigskip
+
+% \newpage
+
+% 	\noindent {\textbf{\textsf{\large Current Post}}} \vspace{0.1cm} \vspace{0.2cm}
+
+% 		\noindent \tikz\draw[black,fill=white] (0,0) circle (.5ex); \textit{Lecturer}. The University of Strathclyde Department of Economics. 
+
+% 	\bigskip	
+
+% 	\noindent \textbf{\textsf{{\large Education}}}  \vspace{0.2cm}		
+% 		%\smallskip
+% 			\begin{itemize}
+% 			\item[$\circ$] 2018 PhD in Economics, \textit{UNC Greensboro}	
+% 			\item[$\circ$] 2013 Master of Arts in Applied Economics, \textit{UNC Greensboro}  
+% 			\item[$\circ$] 2012 Bachelor of Science in Economics, \textit{UNC Greensboro}	
+% 			\end{itemize}
+
+% 	\bigskip
 	
-	\noindent \textbf{\textsf{{\large Fields of Interest}}}  \vspace{0.1cm} \hrule \vspace{0.2cm}	
-		%\smallskip
+% 	\noindent \textbf{\textsf{{\large Fields of Interest}}}  \vspace{0.2cm}	
+% 		%\smallskip
 		
-			\noindent Applied Economics, Economics of Education, Labor Economics, Inequality	
+% 			\noindent Applied economics including education, family, and behavioural economics with a focus on human capital and inequality
 		
-	\bigskip
+% 	\bigskip
 
-	\noindent \textbf{\textsf{{\large Publications}}} \vspace{0.1cm} \hrule \vspace{0.2cm}
+% 	\noindent \textbf{\textsf{{\large Publications}}} \vspace{0.1cm} \hrule \vspace{0.2cm}
 
-		\begin{itemize}
-		\item[$\circ$] Peers, Parents, and Attitudes about School. \textit{Journal of Human Capital} 14, no. 2 (2020): 290-342
-		\item[$\circ$] The Skill Development of Children of Immigrants (\textit{with Marie Hull}). \textit{Economics of Education Review} 78 (2020): 102036
-		\item[$\circ$] Identity Economics: Social Influence and Skill Development. \textit{Journal of Economic Surveys} 33, no. 5 (2019): 1389-1408
-		\end{itemize}
+% 		\begin{itemize}
+% 		\item[$\circ$] Peers, Parents, and Attitudes about School. \textit{Journal of Human Capital} 14, no. 2 (2020): 290-342
+% 		\item[$\circ$] The Skill Development of Children of Immigrants (\textit{with Marie Hull}). \textit{Economics of Education Review} 78 (2020): 102036
+% 		\item[$\circ$] Identity Economics: Social Influence and Skill Development. \textit{Journal of Economic Surveys} 33, no. 5 (2019): 1389-1408
+% 		\end{itemize}
 		
-	\bigskip 
+% 	\bigskip 
 	
-	\noindent \textbf{\textsf{{\large Working Papers}}}  \vspace{0.1cm} \hrule \vspace{0.2cm}  
+% 	\noindent \textbf{\textsf{{\large Working Papers}}}  \vspace{0.1cm} \hrule \vspace{0.2cm}  
 
-		\begin{itemize}
-		\item[$\circ$] The Long-Run Effects of Peers on Mental Health (\textit{with Lukas Kiessling}) [conditionally accepted at the Economic Journal]
-		\item[$\circ$] Troubled in School? Does Maternal Involvement Matter for Adolescents? (\textit{with Martijn van Hasselt})
-		\item[$\circ$] Peer Gender and School: Evidence from Ethiopia (\textit{with Daniel Borbely \& Agnese Romiti})
-		\end{itemize}
+% 		\begin{itemize}
+% 		\item[$\circ$] The Long-Run Effects of Peers on Mental Health (\textit{with Lukas Kiessling}) [conditionally accepted at the Economic Journal]
+% 		\item[$\circ$] Troubled in School? Does Maternal Involvement Matter for Adolescents? (\textit{with Martijn van Hasselt})
+% 		\item[$\circ$] Peer Gender and School: Evidence from Ethiopia (\textit{with Daniel Borbely \& Agnese Romiti})
+% 		\end{itemize}
 		
-	\bigskip
+% 	\bigskip
 
-	\noindent \textbf{\textsf{{\large Research in-Progress}}}  \vspace{0.1cm} \hrule \vspace{0.2cm}  
+% 	\noindent \textbf{\textsf{{\large Research in-Progress}}}  \vspace{0.1cm} \hrule \vspace{0.2cm}  
 
-		\begin{itemize}
-		\item[$\circ$] Reference Dependence and Peer Effects (\textit{Marco Fongoni, Agnese Romiti, \& Zhan Shi})
-		\item[$\circ$] Marijuana Legalization and Mental Health (\textit{with Daniel Borbely, Otto Lenhart, \& Agnese Romiti})
-		\item[$\circ$] Asymmetry in Intensity and Persistence of Reciprocity in Labour Markets (\textit{with Alex Dickson \& Marco Fongoni}) 	
-		\end{itemize}
+% 		\begin{itemize}
+% 		\item[$\circ$] Reference Dependence and Peer Effects (\textit{Marco Fongoni, Agnese Romiti, \& Zhan Shi})
+% 		\item[$\circ$] Marijuana Legalization and Mental Health (\textit{with Daniel Borbely, Otto Lenhart, \& Agnese Romiti})
+% 		\item[$\circ$] Asymmetry in Intensity and Persistence of Reciprocity in Labour Markets (\textit{with Alex Dickson \& Marco Fongoni}) 	
+% 		\end{itemize}
 
-	\newpage
-	\noindent \textbf{\textsf{{\large Knowledge Exchange Publications}}}  \vspace{0.1cm} \hrule \vspace{0.2cm}	
+% 	\newpage
+% 	\noindent \textbf{\textsf{{\large Knowledge Exchange Publications}}}  \vspace{0.1cm} \hrule \vspace{0.2cm}	
 
-		\begin{itemize}
-		\item[$\circ$] The economics of parenting: children and inequality in a time of shutdown (\textit{with Emma Congreve}). Fraser of Allander Commentary 44, no. 2 (2020).
-		\item[$\circ$] How is coronavirus affecting the mental health of adolescents? \textit{Economics Observatory}. Published online 31 August 2020. \href{https://www.economicsobservatory.com/how-coronavirus-affecting-mental-health-adolescents}. 
-		\item[$\circ$] Update: How is coronavirus affecting the mental health of adolescents? \textit{Economics Observatory}. Published online 8 September 2021. \href{https://www.economicsobservatory.com/update-how-is-coronavirus-affecting-the-mental-health-of-adolescents}. 
-		\end{itemize}
+% 		\begin{itemize}
+% 		\item[$\circ$] The economics of parenting: children and inequality in a time of shutdown (\textit{with Emma Congreve}). Fraser of Allander Commentary 44, no. 2 (2020).
+% 		\item[$\circ$] How is coronavirus affecting the mental health of adolescents? \textit{Economics Observatory}. Published online 31 August 2020. \href{https://www.economicsobservatory.com/how-coronavirus-affecting-mental-health-adolescents}. 
+% 		\item[$\circ$] Update: How is coronavirus affecting the mental health of adolescents? \textit{Economics Observatory}. Published online 8 September 2021. \href{https://www.economicsobservatory.com/update-how-is-coronavirus-affecting-the-mental-health-of-adolescents}. 
+% 		\end{itemize}
 
-		\bigskip
+% 		\bigskip
 
-	\noindent \textbf{\textsf{{\large Seminar and Conference Presentations}}}  \vspace{0.1cm} \hrule \vspace{0.2cm}		
-		%\smallskip
+% 	\noindent \textbf{\textsf{{\large Seminar and Conference Presentations}}}  \vspace{0.1cm} \hrule \vspace{0.2cm}		
+% 		%\smallskip
 
-		\begin{itemize}
-		\item[$\circ$] 2022: Scottish Economic Society Annual Conference	
-		\item[$\circ$] 2021: Annual Conference of the European Society for Population Economics (Virtual)
-		\item[$\circ$] 2020: 2nd Workshop on Health and Inequality at Copenhagen Business School (Virtual)
-		\item[$\circ$] 2019: Seminar at UCD Geary Institute
-		\item[$\circ$] 2019: 34th National Conference of Labour Economics
-		\item[$\circ$] The Society of the Economics of the Household 3rd Annual Meetings
-		\item[$\circ$] 2016: Southern Economics Association 86th Annual Meetings 
-		\end{itemize}
+% 		\begin{itemize}
+% 		\item[$\circ$] 2022: Scottish Economic Society Annual Conference	
+% 		\item[$\circ$] 2021: Annual Conference of the European Society for Population Economics (Virtual)
+% 		\item[$\circ$] 2020: 2nd Workshop on Health and Inequality at Copenhagen Business School (Virtual)
+% 		\item[$\circ$] 2019: Seminar at UCD Geary Institute
+% 		\item[$\circ$] 2019: 34th National Conference of Labour Economics
+% 		\item[$\circ$] The Society of the Economics of the Household 3rd Annual Meetings
+% 		\item[$\circ$] 2016: Southern Economics Association 86th Annual Meetings 
+% 		\end{itemize}
 
-	\bigskip
+% 	\bigskip
 
-	\noindent \textbf{\textsf{{\large Awards}}}  \vspace{0.1cm} \hrule \vspace{0.2cm}
+% 	\noindent \textbf{\textsf{{\large Awards}}}  \vspace{0.1cm} \hrule \vspace{0.2cm}
 
-		\begin{itemize}
-			\item[$\circ$] 2022: University of Strathclyde Student Excellence Award (PhD student funding)
-			\item[$\circ$] 2020: University of Strathclyde Research Excellence Scholarship (PhD student funding)
-			\item[$\circ$] 2022: Teaching excellence award shortlist for best in faculty
-		\end{itemize}
+% 		\begin{itemize}
+% 			\item[$\circ$] 2022: University of Strathclyde Student Excellence Award (PhD student funding)
+% 			\item[$\circ$] 2020: University of Strathclyde Research Excellence Scholarship (PhD student funding)
+% 			\item[$\circ$] 2022: Teaching excellence award shortlist for best in faculty
+% 		\end{itemize}
 
-	\bigskip
+% 	\bigskip
 
-	\noindent \textbf{\textsf{{\large PhD Supervision}}}  \vspace{0.1cm} \hrule \vspace{0.2cm}
+% 	\noindent \textbf{\textsf{{\large PhD Supervision}}}  \vspace{0.1cm} \hrule \vspace{0.2cm}
 
-		\begin{itemize}
-			\item[$\circ$] 2021-present: Zhan Shi (1st supervisor)
-			\item[$\circ$] 2021-present: Cesarine Boinet (2nd supervisor)
-			\item[$\circ$] 2022 (starting): Tham Ta (1st supervisor)
-		\end{itemize}
+% 		\begin{itemize}
+% 			\item[$\circ$] 2021-present: Zhan Shi (1st supervisor)
+% 			\item[$\circ$] 2021-present: Cesarine Boinet (2nd supervisor)
+% 			\item[$\circ$] 2022 (starting): Tham Ta (1st supervisor)
+% 		\end{itemize}
 
-	\bigskip	
+% 	\bigskip	
 
-	\noindent \textbf{\textsf{{\large Teaching Experience}}}	 \vspace{0.1cm} \hrule \vspace{0.2cm}	
+% 	\noindent \textbf{\textsf{{\large Teaching Experience}}}	 \vspace{0.1cm} \hrule \vspace{0.2cm}	
 
-		\begin{itemize}
-		\item[$\circ$] 2020-present: Health Economics, MSc. (U. Strathclyde)
-		\item[$\circ$] 2019-present: Inequality Economics, MSc. (U. Strathclyde)
-		\item[$\circ$] 2019-present: Applied Econometrics, 4th Year Honours (U. Strathclyde)
-		\item[$\circ$] 2019-present: Industrial Economics, 4th Year Honours (U. Strathclyde)
-		\item[$\circ$] BA and MSc Dissertation Advisor (U. Strathclyde)
-		\item[$\circ$] 2017 Instructor for Principles of Microeconomics  (UNC Greensboro)
-		\item[$\circ$] 2015-2017 Instructor for Business Statistics I  (UNC Greensboro)
-		\end{itemize}
+% 		\begin{itemize}
+% 		\item[$\circ$] 2020-present: Health Economics, MSc. (U. Strathclyde)
+% 		\item[$\circ$] 2019-present: Inequality Economics, MSc. (U. Strathclyde)
+% 		\item[$\circ$] 2019-present: Applied Econometrics, 4th Year Honours (U. Strathclyde)
+% 		\item[$\circ$] 2019-present: Industrial Economics, 4th Year Honours (U. Strathclyde)
+% 		\item[$\circ$] BA and MSc Dissertation Advisor (U. Strathclyde)
+% 		\item[$\circ$] 2017 Instructor for Principles of Microeconomics  (UNC Greensboro)
+% 		\item[$\circ$] 2015-2017 Instructor for Business Statistics I  (UNC Greensboro)
+% 		\end{itemize}
 
-	\bigskip
+% 	\bigskip
 	
-	\noindent \textbf{\textsf{{\large Professional Service}}}	 \vspace{0.1cm} \hrule \vspace{0.2cm}	
+% 	\noindent \textbf{\textsf{{\large Professional Service}}}	 \vspace{0.1cm} \hrule \vspace{0.2cm}	
 
-		\begin{itemize}
-		\item[$\circ$] Refereeing Activity: \textit{Economic Journal}, \textit{Labour Economics}, \textit{Behavioural Public Policy}, \textit{Economics of Education Review}
-		\end{itemize}
-
-	% \newpage
-	% \noindent {\large\textbf{Skills and Non-Academic Experience}} \vspace{0.1cm} \hrule \vspace{0.2cm}
-	% 	%\smallskip
-		
-	% 		\noindent \tikz\draw[black,fill=white] (0,0) circle (.5ex); Programming: Stata, Matlab, SAS, \LaTeX
-	% 		\medskip
-	
-	% 		\noindent \tikz\draw[black,fill=white] (0,0) circle (.5ex); Service Learning: 2015-2016 AmeriCorps Access Project Volunteer Youth Coordinator, \textit{The Center for New North Carolinians}
-	% 		\medskip
-	
-	% 		\noindent \tikz\draw[black,fill=white] (0,0) circle (.5ex); Military Service:
-	% 		\smallskip
-				
-	% 			\indent 2004-2008 Active Duty US Army \\ 
-	% 			% \indent \textit{Deployment}: Iraq (June 2006 - September 2007)	\\
-	% 			\indent 2010-2016 US Navy Reserves	    \\
-	
-	% \bigskip
-
-	% \noindent {\large \textbf{References}} \vspace{0.1cm} \hrule \vspace{0.2cm}
-	% %\smallskip
-		
-	% 	\noindent \tikz\draw[black,fill=white] (0,0) circle (.5ex); Dr. Jeremy Bray; Email: \href{mailto:jwbray@uncg.edu}{jwbray@uncg.edu}				
-	% 	\medskip
-		
-	% 	\noindent \tikz\draw[black,fill=white] (0,0) circle (.5ex); Dr. Martijn van Hasselt; Email: \href{mailto:mnvanhas@uncg.edu}{mnvanhas@uncg.edu}
-	% 	\medskip
-		         
-	% 	\noindent \tikz\draw[black,fill=white] (0,0) circle (.5ex); Dr. Dora Gicheva; Email: \href{mailto:d\_gichev@uncg.edu}{d\_gichev@uncg.edu}
+% 		\begin{itemize}
+% 		\item[$\circ$] Refereeing Activity: \textit{Economic Journal}, \textit{Labour Economics}, \textit{Behavioural Public Policy}, \textit{Economics of Education Review}
+% 		\end{itemize}
 
 
 
