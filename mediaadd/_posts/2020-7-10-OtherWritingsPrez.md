@@ -5,6 +5,12 @@ permalink: /addmat/
 data: 2020-7-10
 ---
 
+**Information about a student's academic rank can hurt their mental health -- even if it's not true.** Published online 13 October 2022.
+
+>A piece I wrote for the LSE USAPP Blog where I describe the work Lukas Kiessling and I did on understanding academic rank effects among students and consequences for mental health. In this piece, I focus on the key intuitions and take home messages.
+
+[**LSE USAPP Blog**](https://blogs.lse.ac.uk/usappblog/2022/10/13/information-about-a-students-academic-rank-can-hurt-their-mental-health-even-if-its-not-true/)
+
 **How is coronavirus affecting the mental health of adolescents?** Published online 21 August 2020.
 
 >An article I wrote for the *Economics Observatory* website, who provide information from academic research on a variety of topics related to challenges from Covid-19. In this article, I discuss what academic work can tell us about the potential impacts of Covid-19 on the mental health of adolescents and outline potential steps to take along with what we need to learn more about.  
@@ -13,7 +19,7 @@ data: 2020-7-10
 
 **Update: How is coronovirus affecting the mental health of adolescents?** Published online 8 September 2021.
 
->Update to the original article I wrote for the *Economics Observatory* describing what have been learning on the topic through the pandemic.
+>Update to the original article I wrote for the *Economics Observatory* describing what we have been learning on the topic through the pandemic.
 
 [**Economics Observatory**](https://www.economicsobservatory.com/update-how-is-coronavirus-affecting-the-mental-health-of-adolescents)
 
