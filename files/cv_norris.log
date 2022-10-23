@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.9.28)  23 OCT 2022 00:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.9.28)  23 OCT 2022 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1504,59 +1504,21 @@ arning (ext4): destination with the same identifier (name{page.}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.171 \newpage
-               [2]
-LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
-(Font)              `T1/Cabin-TLF/bold/n' on input line 173.
-LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
-(Font)              scaled to size 10.40245pt on input line 173.
-LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
-(Font)              `T1/Cabin-TLF/bold/n' on input line 173.
-LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
-(Font)              scaled to size 11.39996pt on input line 173.
-LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on inp
-ut line 182.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/xcharter/TS1XCharter-TLF.fd
-File: TS1XCharter-TLF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharter
--TLF.
-)
-LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 182.
-Package microtype Info: Character `textbardbl ' is missing
-(microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textcelsius ' is missing
-(microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.224 	\newpage
-                [3]pdfTeX warning (ext4): destination with the same identifier 
-(name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.288 		\end{itemize}
-                      [4]pdfTeX warning (ext4): destination with the same ident
-ifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.323 \end{document}
-                     [5]
+l.293 \end{document}
+                     [2]
 (/Users/jonathan/Documents/GitHub/jonathan-norris.github.io/files/cv_norris.aux
 )
 Package rerunfilecheck Info: File `cv_norris.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28780 strings out of 478599
- 503201 string characters out of 5854086
- 813149 words of memory out of 5000000
- 46010 multiletter control sequences out of 15000+600000
- 506771 words of font info for 118 fonts, out of 8000000 for 9000
+ 28680 strings out of 478599
+ 500650 string characters out of 5854086
+ 813150 words of memory out of 5000000
+ 45950 multiletter control sequences out of 15000+600000
+ 479397 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,5n,83p,479b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,5n,83p,479b,477s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/xcharter/xch_rydp4l.enc}{
 /usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cabin/cbn_i3ioen.enc}</usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/impallari/cabin/Cabin-Bold.pfb></usr/l
@@ -1564,12 +1526,12 @@ ocal/texlive/2021/texmf-dist/fonts/type1/impallari/cabin/Cabin-Regular.pfb></us
 r/local/texlive/2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb><
 /usr/local/texlive/2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.
 pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Ro
-man.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
+man.pfb>
 Output written on /Users/jonathan/Documents/GitHub/jonathan-norris.github.io/fi
-les/cv_norris.pdf (5 pages, 207880 bytes).
+les/cv_norris.pdf (2 pages, 194245 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
- 36877 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 28685 words of extra memory for PDF output out of 29859 (max. 10000000)
 
