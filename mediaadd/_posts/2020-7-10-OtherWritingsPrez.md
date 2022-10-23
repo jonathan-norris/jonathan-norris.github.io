@@ -5,6 +5,18 @@ permalink: /addmat/
 data: 2020-7-10
 ---
 
+**How is coronavirus affecting the mental health of adolescents?** Published online 21 August 2020.
+
+>An article I wrote for the *Economics Observatory* website, who provide information from academic research on a variety of topics related to challenges from Covid-19. In this article, I discuss what academic work can tell us about the potential impacts of Covid-19 on the mental health of adolescents and outline potential steps to take along with what we need to learn more about.  
+
+[**Economics Observatory**](https://www.coronavirusandtheeconomy.com/question/how-coronavirus-affecting-mental-health-adolescents)
+
+**Update: How is coronovirus affecting the mental health of adolescents?** Published online 8 September 2021.
+
+>Update to the original article I wrote for the *Economics Observatory* describing what have been learning on the topic through the pandemic.
+
+[**Economics Observatory**](https://www.economicsobservatory.com/update-how-is-coronavirus-affecting-the-mental-health-of-adolescents)
+
 **The Economics of Parenting: Children and Inequality at a time of shutdown. Fraser of Allander Commentary 44, no. 2 (2020).**
 
 [**with Emma Congreve**](https://www.strath.ac.uk/staff/congreveemmams/) 
@@ -21,11 +33,7 @@ data: 2020-7-10
 
 [**Stitcher**](https://www.stitcher.com/podcast/fraser-of-allander-institute-podcast)
 
-**How is coronavirus affecting the mental health of adolescents?**
 
->An article I wrote for the *Economics Observatory* website, who provide information from academic research on a variety of topics related to challenges from Covid-19. In this article, I discuss what academic work can tell us about the potential impacts of Covid-19 on the mental health of adolescents and outline potential steps to take along with what we need to learn more about.  
-
-[**Economics Observatory**](https://www.coronavirusandtheeconomy.com/question/how-coronavirus-affecting-mental-health-adolescents)
 
 
 
