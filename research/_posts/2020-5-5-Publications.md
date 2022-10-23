@@ -5,7 +5,7 @@ permalink: /research/
 date: 2020-5-5
 ---
 
-**The Long-Run Effects of Peers on Mental Health** (with **[Lukas Kiessling](https://lukaskiessling.github.io/)**). *Accepted/in-Press at the Economic Journal*.
+**The Long-Run Effects of Peers on Mental Health** (with **[Lukas Kiessling](https://lukaskiessling.github.io/)**). *Forthcoming at the Economic Journal (accepted 2022)*.
 
 <details>
 	<summary><b>Abstract</b></summary>
@@ -17,6 +17,20 @@ date: 2020-5-5
 
 <details>
 	<summary> <a href="https://doi.org/10.1093/ej/ueac039" style="font-weight:bold;color:#4183C4">Published Link</a> &nbsp;&nbsp; <a href="{{site.baseurl}}/files/kiessling_norris122021.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> &nbsp;&nbsp; <a href="https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html" style="font-weight:bold;color:#4183C4">Media Coverage</a> </summary>
+</details>
+
+**Peer Gender and Schooling: Evidence from Ethiopia** (with **[Daniel Borbely](https://sites.google.com/view/danielborbely/home)** and **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**). *Accepted/in-press at the Journal of Human Capital (2022)*
+
+<details>
+	<summary><b>Abstract</b></summary>
+
+		<p>
+		This paper studies how classmate gender composition matters for school absences and test scores in a context characterized by strong social norms and scarce school resources. We base our results on a unique survey of students across classrooms and schools in Ethiopia, exploiting random assignment of students to classrooms. We find a strong asymmetry: while females benefit from exposure to more female classmates with reduced absenteeism and improvement on math test scores, males are unaffected. We further find that exposure to more female classmates improves motivation and participation in class, and in general, that the effects of classmate gender composition are consistent with social interaction effects.
+		</p>
+</details>
+
+<details>
+	<summary> <a href="{{site.baseurl}}/files/peergender_wp.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> </summary>
 </details>
 
 **The Skill Development of the Children of Immigrants.** Economics of Education Review 78 (2020): 102036. (with **[Marie Hull](https://sites.google.com/view/mariehull/home)**)

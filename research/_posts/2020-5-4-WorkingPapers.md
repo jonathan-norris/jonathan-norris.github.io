@@ -5,6 +5,20 @@ permalink: /research/
 date: 2020-5-4
 ---
 
+**Reference Dependent Aspirations and Peer Effects in Education** (with **[Marco Fongoni](https://sites.google.com/site/marcofongoni/home)**, **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**, and **Zhan Shi**)
+
+<details>
+	<summary><b>Abstract</b></summary>
+		
+		<p>
+		We study the long-run effects of income inequality within adolescent peer compositions in schools. We propose a theoretical framework based on reference dependence where inequality in peer groups can generate aspiration gaps. Guided by predictions from this framework we find that an increase in the share of low income peers within school-cohorts improves the educational outcomes of low income students and has negative effects on high income students. We further document a range of evidence that corroborates these results, including that they are distinct from peer non-linear ability effects. We then find that social cohesion, through better connections in the school network, has an important role in mitigating the effects of peer inequality. Our results provide evidence on the role of inequality in peer groups for long-run educational outcomes, while also demonstrating that there is potential to avoid these consequences. 
+		</p>
+</details>
+
+<details>
+	<summary> <a href="{{site.baseurl}}/files/peerinequality.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> </summary>
+</details>
+
 **Troubled in School: Does Maternal Involvement Matter for Adolescents** (with **[Martijn van Hasselt](https://bryan.uncg.edu/faculty-and-staff/van-hasselt-martijn-nicolaas-pieter-n/)**) 
 
 <details>
@@ -19,21 +33,6 @@ date: 2020-5-4
 	<summary> <a href="{{site.baseurl}}/files/schtrouble.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> </summary>
 </details>
 
-<!-- &nbsp;&nbsp;&nbsp;[**Current Version (updated 14 May 2021)**]({{site.baseurl}}/files/schtrouble.pdf) -->
 
-**Peer Gender and Schooling: Evidence from Ethiopia** (with **[Daniel Borbely](https://sites.google.com/view/danielborbely/home)** and **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**)
 
-<details>
-	<summary><b>Abstract</b></summary>
-
-		<p>
-		In this paper, we study how classmate gender composition matters for students in Ethiopia. We base our results on a unique survey of students across classrooms and schools and among those randomly assigned to class. We find a strong asymmetry: males do not and females do benefit from exposure to more female classmates with less school absence and improvement on math test scores. We further find that exposure to more female classmates improves motivation and participation in class, and in general, that the effects of classmate gender composition are consistent with social interaction effects.
-		</p>
-</details>
-
-<details>
-	<summary> <a href="{{site.baseurl}}/files/peergender_wp.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> </summary>
-</details>
-
-<!-- &nbsp;&nbsp;&nbsp;[**Current Version**]({{site.baseurl}}/files/peergender_wp.pdf)  -->
 
