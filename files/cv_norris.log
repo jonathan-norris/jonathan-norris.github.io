@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.9.28)  23 OCT 2022 17:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.9.28)  23 OCT 2022 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1295,15 +1295,15 @@ LaTeX Font Info:    ... okay on input line 60.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.2698pt, 452.96826pt, 72.2698pt)
-* v-part:(T,H,B)=(72.2698pt, 700.50723pt, 72.2698pt)
+* h-part:(L,W,R)=(54.2025pt, 489.10287pt, 54.2025pt)
+* v-part:(T,H,B)=(54.2025pt, 736.64185pt, 54.2025pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=452.96826pt
-* \textheight=700.50723pt
-* \oddsidemargin=-0.00018pt
-* \evensidemargin=-0.00018pt
-* \topmargin=-37.00018pt
+* \textwidth=489.10287pt
+* \textheight=736.64185pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-55.06749pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -1492,11 +1492,8 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 80.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 80.
-
-Overfull \hbox (43.46846pt too wide) in alignment at lines 78--159
- [] [] 
- []
-
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
+(Font)              scaled to size 10.95pt on input line 90.
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX w
@@ -1504,7 +1501,7 @@ arning (ext4): destination with the same identifier (name{page.}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.293 \end{document}
+l.315 \end{document}
                      [2]
 (/Users/jonathan/Documents/GitHub/jonathan-norris.github.io/files/cv_norris.aux
 )
@@ -1512,11 +1509,11 @@ Package rerunfilecheck Info: File `cv_norris.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28680 strings out of 478599
- 500650 string characters out of 5854086
- 813150 words of memory out of 5000000
- 45950 multiletter control sequences out of 15000+600000
- 479397 words of font info for 92 fonts, out of 8000000 for 9000
+ 28692 strings out of 478599
+ 501025 string characters out of 5854086
+ 816035 words of memory out of 5000000
+ 45952 multiletter control sequences out of 15000+600000
+ 486474 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,5n,83p,479b,477s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/xcharter/xch_rydp4l.enc}{
@@ -1524,14 +1521,15 @@ Here is how much of TeX's memory you used:
 ocal/texlive/2021/texmf-dist/fonts/type1/impallari/cabin/Cabin-Bold.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/impallari/cabin/Cabin-Regular.pfb></us
 r/local/texlive/2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb><
-/usr/local/texlive/2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.
-pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/xcharter/XCharter-Ro
-man.pfb>
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/xcharter/XCharter-BoldIta
+lic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/xcharter/XCharte
+r-Italic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/xcharter/XC
+harter-Roman.pfb>
 Output written on /Users/jonathan/Documents/GitHub/jonathan-norris.github.io/fi
-les/cv_norris.pdf (2 pages, 194245 bytes).
+les/cv_norris.pdf (2 pages, 237797 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 61 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
- 28685 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 32781 words of extra memory for PDF output out of 35830 (max. 10000000)
 
