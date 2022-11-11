@@ -5,7 +5,7 @@ permalink: /research/
 date: 2020-5-4
 ---
 
-**Reference Dependent Aspirations and Peer Effects in Education** (with **[Marco Fongoni](https://sites.google.com/site/marcofongoni/home)**, **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**, and **Zhan Shi**)
+**Reference Dependent Aspirations and Peer Effects in Education** (with **[Marco Fongoni](https://sites.google.com/site/marcofongoni/home)**, **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**, and Zhan Shi)
 
 <details>
 	<summary><b>Abstract</b></summary>
