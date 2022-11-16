@@ -33,7 +33,7 @@ date: 2020-5-4
 	<summary> <a href="{{site.baseurl}}/files/schtrouble.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> </summary>
 </details>
 
-**Marijuana Legalisation and Mental Health** (with **[Daniel Borbely](https://sites.google.com/view/danielborbely/home)**, **[Otto Lenhart](https://ottolenhart.com/about-2/)** and **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**)
+**Marijuana Legalization and Mental Health** (with **[Daniel Borbely](https://sites.google.com/view/danielborbely/home)**, **[Otto Lenhart](https://ottolenhart.com/about-2/)** and **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**)
 
 <details>
 	<summary><b>Abstract</b></summary>
