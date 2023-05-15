@@ -5,7 +5,7 @@ permalink: /research/
 date: 2020-5-5
 ---
 
-**The Long-Run Effects of Peers on Mental Health.** The Economic Journal 133, no. 649 (2023): 281-322. (with **[Lukas Kiessling](https://lukaskiessling.github.io/)**)
+The Long-Run Effects of Peers on Mental Health. **The Economic Journal** 133, no. 649 (2023): 281-322. (with **[Lukas Kiessling](https://lukaskiessling.github.io/)**)
 
 <details>
 	<summary><b>Abstract</b></summary>
@@ -19,7 +19,7 @@ date: 2020-5-5
 	<summary> <a href="https://doi.org/10.1093/ej/ueac039" style="font-weight:bold;color:#4183C4">Published Link</a> &nbsp;&nbsp; <a href="{{site.baseurl}}/files/kiessling_norris122021.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> &nbsp;&nbsp; <a href="https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html" style="font-weight:bold;color:#4183C4">Media Coverage</a> &nbsp;&nbsp; <a href="10.5281/zenodo.6587421" style="font-weight:bold;color:#4183C4">Replication Package</a> </summary>
 </details>
 
-**Troubled in School: Does Maternal Involvement Matter for Adolescents** (with **[Martijn van Hasselt](https://bryan.uncg.edu/faculty-and-staff/van-hasselt-martijn-nicolaas-pieter-n/)**). Accepted/in-press at the Journal of Population Economics (accepted 2023). 
+Troubled in School: Does Maternal Involvement Matter for Adolescents (with **[Martijn van Hasselt](https://bryan.uncg.edu/faculty-and-staff/van-hasselt-martijn-nicolaas-pieter-n/)**). Accepted/in-press at the **Journal of Population Economics** (accepted 2023). 
 
 <details>
 	<summary><b>Abstract</b></summary>
@@ -29,7 +29,7 @@ date: 2020-5-5
 		</p>
 </details>
 
-**Peer Gender and Schooling: Evidence from Ethiopia** (with **[Daniel Borbely](https://sites.google.com/view/danielborbely/home)** and **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**). Accepted/in-press at the Journal of Human Capital (2022).
+Peer Gender and Schooling: Evidence from Ethiopia (with **[Daniel Borbely](https://sites.google.com/view/danielborbely/home)** and **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**). Accepted/in-press at the **Journal of Human Capital** (2022).
 
 <details>
 	<summary><b>Abstract</b></summary>
@@ -43,7 +43,7 @@ date: 2020-5-5
 	<summary> <a href="{{site.baseurl}}/files/peergender_wp.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> </summary>
 </details>
 
-**The Skill Development of the Children of Immigrants.** Economics of Education Review 78 (2020): 102036. (with **[Marie Hull](https://sites.google.com/view/mariehull/home)**)
+The Skill Development of the Children of Immigrants. **Economics of Education Review** 78 (2020): 102036. (with **[Marie Hull](https://sites.google.com/view/mariehull/home)**)
 
 <details>
 	<summary><b>Abstract</b></summary>
@@ -59,7 +59,7 @@ date: 2020-5-5
 
 <!-- &nbsp;&nbsp;&nbsp;[**Current Version (final submission)**]({{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf) -->
 
-**Peers, Parents, and Attitudes about School.** Journal of Human Capital 14, no. 2 (Summer 2020): 290-342
+Peers, Parents, and Attitudes about School. **Journal of Human Capital** 14, no. 2 (Summer 2020): 290-342
 
 <details>
 	<summary><b>Abstract</b></summary>
@@ -78,7 +78,7 @@ date: 2020-5-5
 <a href = "{{ site.baseurl }}/files/ppa_norris_jhcfinal.pdf"><b>Current Version (final submission) </b> </a> 
 </dl> -->
 
-**Identity Economics: Social Influence and Skill Development.** Journal of Economic Surveys 33, no. 5 (2019): 1389-1408
+Identity Economics: Social Influence and Skill Development. **Journal of Economic Surveys** 33, no. 5 (2019): 1389-1408
 
 <details>
 	<summary><b>Abstract</b></summary>
