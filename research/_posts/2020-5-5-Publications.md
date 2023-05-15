@@ -5,8 +5,6 @@ permalink: /research/
 date: 2020-5-5
 ---
 
-Kiessling, Lukas, and Jonathan Norris. "The long-run effects of peers on mental health." The Economic Journal 133, no. 649 (2023): 281-322.
-
 **The Long-Run Effects of Peers on Mental Health.** The Economic Journal 133, no. 649 (2023): 281-322. (with **[Lukas Kiessling](https://lukaskiessling.github.io/)**)
 
 <details>
