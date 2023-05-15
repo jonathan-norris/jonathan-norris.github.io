@@ -16,7 +16,7 @@ The Long-Run Effects of Peers on Mental Health. **The Economic Journal** 133, no
 </details>
 
 <details>
-	<summary> <a href="https://doi.org/10.1093/ej/ueac039" style="font-weight:bold;color:#4183C4">Published Link</a> &nbsp;&nbsp; <a href="{{site.baseurl}}/files/kiessling_norris122021.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> &nbsp;&nbsp; <a href="https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html" style="font-weight:bold;color:#4183C4">Media Coverage</a> &nbsp;&nbsp; <a href="10.5281/zenodo.6587421" style="font-weight:bold;color:#4183C4">Replication Package</a> </summary>
+	<summary> <a href="https://doi.org/10.1093/ej/ueac039" style="font-weight:bold;color:#4183C4">Published Link</a> &nbsp;&nbsp; <a href="{{site.baseurl}}/files/kiessling_norris122021.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> &nbsp;&nbsp; <a href="https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html" style="font-weight:bold;color:#4183C4">Media Coverage</a> &nbsp;&nbsp; <a href="https://zenodo.org/record/6587421#.ZGJNWXbMKUl" style="font-weight:bold;color:#4183C4">Replication Package</a> </summary>
 </details>
 
 Troubled in School: Does Maternal Involvement Matter for Adolescents (with **[Martijn van Hasselt](https://bryan.uncg.edu/faculty-and-staff/van-hasselt-martijn-nicolaas-pieter-n/)**). Accepted/in-press at the **Journal of Population Economics** (accepted 2023). 
