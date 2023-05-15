@@ -5,7 +5,9 @@ permalink: /research/
 date: 2020-5-5
 ---
 
-**The Long-Run Effects of Peers on Mental Health** (with **[Lukas Kiessling](https://lukaskiessling.github.io/)**). *Forthcoming at the Economic Journal (accepted 2022)*.
+Kiessling, Lukas, and Jonathan Norris. "The long-run effects of peers on mental health." The Economic Journal 133, no. 649 (2023): 281-322.
+
+**The Long-Run Effects of Peers on Mental Health.** The Economic Journal 133, no. 649 (2023): 281-322. (with **[Lukas Kiessling](https://lukaskiessling.github.io/)**)
 
 <details>
 	<summary><b>Abstract</b></summary>
@@ -16,7 +18,17 @@ date: 2020-5-5
 </details>
 
 <details>
-	<summary> <a href="https://doi.org/10.1093/ej/ueac039" style="font-weight:bold;color:#4183C4">Published Link</a> &nbsp;&nbsp; <a href="{{site.baseurl}}/files/kiessling_norris122021.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> &nbsp;&nbsp; <a href="https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html" style="font-weight:bold;color:#4183C4">Media Coverage</a> </summary>
+	<summary> <a href="https://doi.org/10.1093/ej/ueac039" style="font-weight:bold;color:#4183C4">Published Link</a> &nbsp;&nbsp; <a href="{{site.baseurl}}/files/kiessling_norris122021.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> &nbsp;&nbsp; <a href="https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html" style="font-weight:bold;color:#4183C4">Media Coverage</a> &nbsp;&nbsp; <a href="10.5281/zenodo.6587421" style="font-weight:bold;color:#4183C4">Replication Package</a> </summary>
+</details>
+
+**Troubled in School: Does Maternal Involvement Matter for Adolescents** (with **[Martijn van Hasselt](https://bryan.uncg.edu/faculty-and-staff/van-hasselt-martijn-nicolaas-pieter-n/)**). *Forthcoming at the Journal of Population Economics (accepted 2023)*. 
+
+<details>
+	<summary><b>Abstract</b></summary>
+		
+		<p>
+		We estimate the causal effect of mother's involvement on the amount of trouble an adolescent experiences in school. We use multiple measures of school trouble and factor analysis to construct a composite and then link this composite with noncognitive skills. Our measure of mother's involvement encompasses discussing school-related matters and providing help with school projects. Using an instrumental variable constructed from a suitably chosen peer group, our main finding is that an increase in maternal involvement leads to a significant decrease in school trouble. We find this result to be robust across a large number of sensitivity tests designed to account for possible selection effects, shocks at the peer group level, and further potential violations of the exclusion restriction. Additionally, we present evidence suggesting that the effect of maternal involvement may operate through its effect on adolescents' college aspirations, mental health, and the perception of parental warmth. 
+		</p>
 </details>
 
 **Peer Gender and Schooling: Evidence from Ethiopia** (with **[Daniel Borbely](https://sites.google.com/view/danielborbely/home)** and **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**). *Accepted/in-press at the Journal of Human Capital (2022)*
