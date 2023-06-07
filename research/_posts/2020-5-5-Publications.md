@@ -29,6 +29,10 @@ Troubled in School: Does Maternal Involvement Matter for Adolescents (with **[Ma
 		</p>
 </details>
 
+<details>
+	<summary> <a href="{{site.baseurl}}/files/schtrouble.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> </summary>
+</details>
+
 Peer Gender and Schooling: Evidence from Ethiopia (with **[Daniel Borbely](https://sites.google.com/view/danielborbely/home)** and **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**). Accepted/in-press at the **Journal of Human Capital** (2022).
 
 <details>
