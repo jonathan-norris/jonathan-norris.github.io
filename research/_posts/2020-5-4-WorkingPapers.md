@@ -11,12 +11,12 @@ date: 2020-5-4
 	<summary><b>Abstract</b></summary>
 		
 		<p>
-		We study the long-run effects of income inequality within adolescent peer compositions in schools. We propose a theoretical framework based on reference dependence where inequality in peer groups can generate aspiration gaps. Guided by predictions from this framework we find that an increase in the share of low income peers within school-cohorts improves the educational outcomes of low income students and has negative effects on high income students. We further document a range of evidence that corroborates these results, including that they are distinct from peer non-linear ability effects. We then find that social cohesion, through better connections in the school network, has an important role in mitigating the effects of peer inequality. Our results provide evidence on the role of inequality in peer groups for long-run educational outcomes, while also demonstrating that there is potential to avoid these consequences. 
+		We study the long-run effects of income inequality within peer compositions in schools. We propose a theoretical framework based on reference dependence where inequality in peer groups can generate aspiration gaps. Guided by predictions from this framework we find that an increase in the share of low-income peers within school-cohorts improves the educational outcomes of low-income students and negatively affects high-income students. We then find that better connections in the school network has an important role in mitigating these effects. Our results evidence the role of inequality among peers, while also demonstrating potential to avoid these consequences.
 		</p>
 </details>
 
 <details>
-	<summary> <a href="{{site.baseurl}}/files/peerinequality.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> </summary>
+	<summary> <a href="{{site.baseurl}}/files/peerinequality_Update.pdf" style="font-weight:bold;color:#4183C4">Current Version (updated 08/2023)</a> </summary>
 </details>
 
 
