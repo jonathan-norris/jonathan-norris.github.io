@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 15px/1.4 $helvetica;
+  font: 16px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -257,7 +257,7 @@ nav {
 
 body {
   background: $white;
-  font: 15px $helvetica;
+  font: 16px $helvetica;
   color: $darkGray;
 }
 
@@ -265,9 +265,9 @@ details > summary {
   padding-left: .2em;
   margin: 0em .8em;  
   border-left: none;
-  padding-left: .2em;
+  padding-left: .1em;
   color: $blue; 
-  font-size: 15px;
+  font-size: 16px;
   cursor: pointer;
   list-style-type: none;
 }
@@ -278,16 +278,16 @@ details > summary::-webkit-details-marker {
 details > p {
   margin: 0em .8em;  
   border-left: none;
-  padding-left: .2em;
+  padding-left: .1em;
   color: $gray;
-  font-size: 15px;
+  font-size: 16px;
   font-style: normal;
 }
 
   blockquote {
     margin: 0em .8em;  
     border-left: none;
-    padding-left: .2em;
+    padding-left: .1em;
     color: $gray;
     font-size: 15px;
     font-style: normal;
@@ -298,7 +298,7 @@ a {
   color: $blue;
   text-decoration: none;
   cursor: pointer;
-  font-size: 15px;
+  font-size: 16px;
   margins-left: 2px;
   margins-right: 2px;
   &:hover, &:active {
