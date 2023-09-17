@@ -5,17 +5,16 @@ permalink: /
 
 Hi and welcome. I work in applied economics with projects on a range of topics including skill development, parenting, and mental health. Links to my work and project files are included where available. Thanks for dropping by!
 
-#### Contact Me and CV
 
-[jonathan.norris@strath.ac.uk](mailto:jonathan.norris@strath.ac.uk)
-
+Email: [jonathan.norris@strath.ac.uk](mailto:jonathan.norris@strath.ac.uk)
 <a href = "{{ site.baseurl }}/files/cv_norris.pdf"><b> CV </b> </a>
+<a href = "https://scholar.google.com/citations?user=8ZsnGpwAAAAJ&hl=en"><b> Google Scholar Profile </b> </a>
 
 <!-- &nbsp; -->
 ### Working Papers
 <hr>
 
-**Reference Dependent Aspirations and Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: black;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi). <br/>
+**Reference Dependent Aspirations and Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: darkGray;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: darkGray;">Agnese Romiti</a>, and Zhan Shi). <br/>
 <small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 08/2023)][peerinequality-draft] | [IZA Draft (previous version)][peerinequality-iza] ] </small>
 
 <div id="peerinequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -25,7 +24,7 @@ We study the long-run effects of income inequality within peer compositions in s
 [peerinequality-draft]: {{site.baseurl}}/files/peerinequality_Update.pdf
 [peerinequality-iza]: https://www.iza.org/publications/dp/15785/reference-dependent-aspirations-and-peer-effects-in-education
 
-**Marijuana Legalization and Mental Health** (with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>, <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>, and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>). <br/>
+**Marijuana Legalization and Mental Health** (with <a href="https://sites.google.com/view/danielborbely/home" style="color: darkGray;">Daniel Borbely</a>, <a href="https://ottolenhart.com/about-2/" style="color: darkGray;">Otto Lenhart</a>, and <a href="https://sites.google.com/view/agneseromiti/home" style="color: darkGray;">Agnese Romiti</a>). <br/>
 <small>[ <a href="#/" onclick="visib('mjmh')">Abstract</a> | [IZA Draft][mjmh-izadraft] | [Vox EU][mjmh-voxeu] ] </small>
 
 <div id="mjmh" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -38,7 +37,7 @@ This study examines the effects of U.S. state-level marijuana policies on mental
 ### Published Papers
 <hr>
 
-**The Long-Run Effects of Peers on Mental Health** (with <a href="https://lukaskiessling.github.io/" style="color: black;">Lukas Kiessling</a>), *The Economic Journal* 133, no. 649 (2023): 281-322. <br/>
+**The Long-Run Effects of Peers on Mental Health** (with <a href="https://lukaskiessling.github.io/" style="color: darkGray;">Lukas Kiessling</a>), *The Economic Journal* 133, no. 649 (2023): 281-322. <br/>
 <small>[ <a href="#/" onclick="visib('lrpeermh')">Abstract</a> | [Draft][lrpeermh-draft] | [Published Link][lrpeermh-pub] | [Replication Package][lrpeermh-repo] | [Media][lrpeermh-media] ] </small>
 
 <div id="lrpeermh" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -51,7 +50,7 @@ This paper studies how peers in school affect students' mental health. Guided by
 [lrpeermh-media]: https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html 
 
 
-**Troubled in School: Does Maternal Involvement Matter for Adolescents** (with <a href="https://bryan.uncg.edu/faculty-and-staff/van-hasselt-martijn-nicolaas-pieter-n/" style="color: black;">Martijn van Hasselt</a>), Accepted (2023), *Journal of Population Economics*. <br/>
+**Troubled in School: Does Maternal Involvement Matter for Adolescents** (with <a href="https://bryan.uncg.edu/faculty-and-staff/van-hasselt-martijn-nicolaas-pieter-n/" style="color: darkGray;">Martijn van Hasselt</a>), Accepted (2023), *Journal of Population Economics*. <br/>
 <small>[ <a href="#/" onclick="visib('schtr')">Abstract</a> | [Draft][schtr-draft] | [Published Link][schtr-pub] ] </small>
 
 <div id="schtr" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -62,7 +61,7 @@ We estimate the causal effect of mother's involvement on the amount of trouble a
 [schtr-pub]: https://doi.org/10.1007/s00148-023-00950-4
 
 
-**Peer Gender and Schooling: Evidence from Ethiopia** (with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>) and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>), Accepted (2022), *Journal of Human Capital*. <br/>
+**Peer Gender and Schooling: Evidence from Ethiopia** (with <a href="https://sites.google.com/view/danielborbely/home" style="color: darkGray;">Daniel Borbely</a>) and <a href="https://sites.google.com/view/agneseromiti/home" style="color: darkGray;">Agnese Romiti</a>), Accepted (2022), *Journal of Human Capital*. <br/>
 <small>[ <a href="#/" onclick="visib('peergender')">Abstract</a> | [Draft][peergender-draft] | [Published Link][peergender-pub] ] </small>
 
 <div id="peergender" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -74,7 +73,7 @@ This paper studies how classmate gender composition matters for school absences 
 
 
 
-**The Skill Development of the Children of Immigrants** (with <a href="https://sites.google.com/view/mariehull/home" style="color: black;">Marie Hull</a>), *Economics of Education Review* 78 (2020): 102036. <br/>
+**The Skill Development of the Children of Immigrants** (with <a href="https://sites.google.com/view/mariehull/home" style="color: darkGray;">Marie Hull</a>), *Economics of Education Review* 78 (2020): 102036. <br/>
 <small>[ <a href="#/" onclick="visib('coiskill')">Abstract</a> | [Draft][coiskill-draft] | [Published Link][coiskill-pub] ] </small>
 
 <div id="coiskill" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -118,13 +117,13 @@ Within the economic literature, studies in identity economics, peer effects, and
 ### Work in Progress
 <hr>
 
-Asymmetries in Intensity and Persistence of Reciprocity in Labour Markets (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: black;">Marco Fongoni</a>, <a href="https://www.strath.ac.uk/staff/dicksonalexdr/" style="color: black;">Alex Dickson</a>).
+Asymmetries in Intensity and Persistence of Reciprocity in Labour Markets (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: darkGray;">Marco Fongoni</a>, <a href="https://www.strath.ac.uk/staff/dicksonalexdr/" style="color: darkGray;">Alex Dickson</a>).
 
-Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with Cesarine Boinet, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi)
+Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with Cesarine Boinet, <a href="https://sites.google.com/view/agneseromiti/home" style="color: darkGray;">Agnese Romiti</a>, and Zhan Shi)
 
-The Long Legacy of War on Health: Evidence from Cambodia (with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>)
+The Long Legacy of War on Health: Evidence from Cambodia (with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: darkGray;">Otto Lenhart</a>)
 
-The Child Penalty: Gender Norms and Occupational Sorting (with Cesarine Boinet and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>)
+The Child Penalty: Gender Norms and Occupational Sorting (with Cesarine Boinet and <a href="https://sites.google.com/view/agneseromiti/home" style="color: darkGray;">Agnese Romiti</a>)
 
 
 [//]: This java script is the button to show abstract
