@@ -257,7 +257,7 @@ nav {
 
 body {
   background: $white;
-  font: 16px $helvetica;
+  font: 15px $helvetica;
   color: $darkGray;
 }
 
@@ -267,7 +267,7 @@ details > summary {
   border-left: none;
   padding-left: .2em;
   color: $blue; 
-  font-size: 16px;
+  font-size: 15px;
   cursor: pointer;
   list-style-type: none;
 }
@@ -280,7 +280,7 @@ details > p {
   border-left: none;
   padding-left: .2em;
   color: $gray;
-  font-size: 16px;
+  font-size: 15px;
   font-style: normal;
 }
 
@@ -289,7 +289,7 @@ details > p {
     border-left: none;
     padding-left: .2em;
     color: $gray;
-    font-size: 16px;
+    font-size: 15px;
     font-style: normal;
   }
 
@@ -298,7 +298,7 @@ a {
   color: $blue;
   text-decoration: none;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 15px;
   margins-left: 2px;
   margins-right: 2px;
   &:hover, &:active {
