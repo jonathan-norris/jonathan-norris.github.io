@@ -14,7 +14,7 @@ This paper studies how peers in school affect students' mental health. Guided by
 </small><br><br/></div>
 
 
-[lrpeermh-draft]:{{ site.baseurl }}{% /files/kiessling_norris122021.pdf %}
+[lrpeermh-draft]: <a href="{{site.baseurl }}{% /files/kiessling_norris122021.pdf" </a>
 [lrpeermh-pub]: https://doi.org/10.1093/ej/ueac039
 [lrpeermh-repo]: https://zenodo.org/record/6587421#.ZGJNWXbMKUl 
 [lrpeermh-media]: https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html 
