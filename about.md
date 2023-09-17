@@ -124,7 +124,7 @@ Within the economic literature, studies in identity economics, peer effects, and
 
 *The Long Legacy of War on Health: Evidence from Cambodia* (with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>)
 
-*The child penalty: gender norms and occupational sorting* (with Cesarine Boinet and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>)
+*The Child Penalty: Gender Norms and Occupational Sorting* (with Cesarine Boinet and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>)
 
 
 [//]: This java script is the button to show abstract
