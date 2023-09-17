@@ -19,12 +19,14 @@ Hi and welcome. I work in applied economics with projects on a range of topics i
 **Reference Dependent Aspirations and Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: black;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi). <br/>
 <small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 08/2023)][peerinequality-draft] | [IZA Draft (previous version)][peerinequality-iza] ] </small>
 
+
 <div id="peerinequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We study the long-run effects of income inequality within peer compositions in schools. We propose a theoretical framework based on reference dependence where inequality in peer groups can generate aspiration gaps. Guided by predictions from this framework we find that an increase in the share of low-income peers within school-cohorts improves the educational outcomes of low-income students and negatively affects high-income students. We then find that better connections in the school network has an important role in mitigating these effects. Our results evidence the role of inequality among peers, while also demonstrating potential to avoid these consequences.
 </small><br><br/></div>
 
 [peerinequality-draft]: {{site.baseurl}}/files/peerinequality_Update.pdf
 [peerinequality-iza]: https://www.iza.org/publications/dp/15785/reference-dependent-aspirations-and-peer-effects-in-education
+
 
 **Marijuana Legalization and Mental Health** (with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>, <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>, and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>). <br/>
 <small>[ <a href="#/" onclick="visib('mjmh')">Abstract</a> | [IZA Draft][mjmh-izadraft] | [Vox EU][mjmh-voxeu] ] </small>
@@ -74,7 +76,6 @@ This paper studies how classmate gender composition matters for school absences 
 [peergender-pub]: https://doi.org/10.1086/723111
 
 
-
 **The Skill Development of the Children of Immigrants** (with <a href="https://sites.google.com/view/mariehull/home" style="color: black;">Marie Hull</a>), *Economics of Education Review* 78 (2020): 102036. <br/>
 <small>[ <a href="#/" onclick="visib('coiskill')">Abstract</a> | [Draft][coiskill-draft] | [Published Link][coiskill-pub] ] </small>
 
@@ -86,9 +87,6 @@ In this paper, we study the evolution of cognitive and noncognitive skills gaps 
 [coiskill-pub]: https://doi.org/10.1016/j.econedurev.2020.102036
 
 
-
-<!-- &nbsp;&nbsp;&nbsp;[**Current Version (final submission)**]({{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf) -->
-
 **Peers, Parents, and Attitudes about School**, *Journal of Human Capital* 14, no. 2 (Summer 2020): 290-342. <br/>
 <small>[ <a href="#/" onclick="visib('peeratt')">Abstract</a> | [Draft][peeratt-draft] | [Published Link][peeratt-pub] ] </small>
 
@@ -99,12 +97,6 @@ Educational attitudes are linked to long-term educational success through motiva
 [peeratt-draft]: {{site.baseurl}}/files/ppa_norris_jhcfinal.pdf
 [peeratt-pub]: https://doi.org/10.1086/709507 
 
-
-
-<!-- &nbsp;&nbsp;&nbsp;[**Current Version (final submission)**]({{site.baseurl}}/files/ppa_norris_jhcfinal.pdf)-->
-<!-- <dl>
-<a href = "{{ site.baseurl }}/files/ppa_norris_jhcfinal.pdf"><b>Current Version (final submission) </b> </a> 
-</dl> -->
 
 **Identity Economics: Social Influence and Skill Development**, *Journal of Economic Surveys* 33, no. 5 (2019): 1389-1408. <br/>
 <small>[ <a href="#/" onclick="visib('idsur')">Abstract</a> | [Draft][idsur-draft] | [Published Link][idsur-pub] ] </small>
@@ -121,9 +113,12 @@ Within the economic literature, studies in identity economics, peer effects, and
 
 Asymmetries in Intensity and Persistence of Reciprocity in Labour Markets (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: black;">Marco Fongoni</a>, <a href="https://www.strath.ac.uk/staff/dicksonalexdr/" style="color: black;">Alex Dickson</a>).
 
+
 Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with Cesarine Boinet, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi)
 
+
 The Long Legacy of War on Health: Evidence from Cambodia (with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>)
+
 
 The Child Penalty: Gender Norms and Occupational Sorting (with Cesarine Boinet and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>)
 
