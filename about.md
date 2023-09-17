@@ -10,7 +10,7 @@ Hi and welcome. I work in applied economics with projects on a range of topics i
 
 <a href = "{{ site.baseurl }}/files/cv_norris.pdf"><b> CV </b> </a>
 
-<a href = "https://scholar.google.com/citations?user=8ZsnGpwAAAAJ&hl=en" style="color: darkGray"><b> Google Scholar Profile </b> </a>
+<a href = "https://scholar.google.com/citations?user=8ZsnGpwAAAAJ&hl=en" style="color: darkerGray"><b> Google Scholar Profile </b> </a>
 
 <!-- &nbsp; -->
 ### Working Papers
