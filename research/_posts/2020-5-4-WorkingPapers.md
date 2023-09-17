@@ -27,8 +27,4 @@ This study examines the effects of U.S. state-level marijuana policies on mental
 
 
 
-<details>
-	<summary> <a href="{{site.baseurl}}/files/mj_IZAWP.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> </summary>
-</details>
-
 
