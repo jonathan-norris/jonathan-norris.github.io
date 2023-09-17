@@ -12,9 +12,8 @@ Hi and welcome. I work in applied economics with projects on a range of topics i
 <a href = "{{ site.baseurl }}/files/cv_norris.pdf"><b> CV </b> </a>
 
 &nbsp;
+### Published Papers
 <hr>
-&nbsp;
-
 
 **The Long-Run Effects of Peers on Mental Health** (with <a href="https://lukaskiessling.github.io/" style="color: black;">Lukas Kiessling</a>), *The Economic Journal* 133, no. 649 (2023): 281-322. <br/>
 <small>[ <a href="#/" onclick="visib('lrpeermh')">Abstract</a> | [Draft][lrpeermh-draft] | [Published Link][lrpeermh-pub] | [Replication Package][lrpeermh-repo] | [Media][lrpeermh-media] ] </small>
