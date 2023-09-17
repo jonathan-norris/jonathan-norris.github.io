@@ -57,7 +57,7 @@ In this paper, we study the evolution of cognitive and noncognitive skills gaps 
 
 <!-- &nbsp;&nbsp;&nbsp;[**Current Version (final submission)**]({{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf) -->
 
-Peers, Parents, and Attitudes about School. **Journal of Human Capital** 14, no. 2 (Summer 2020): 290-342
+**Peers, Parents, and Attitudes about School**, *Journal of Human Capital* 14, no. 2 (Summer 2020): 290-342.
 
 <details>
 	<summary><b>Abstract</b></summary>
