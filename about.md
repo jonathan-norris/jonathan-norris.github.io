@@ -118,13 +118,13 @@ Within the economic literature, studies in identity economics, peer effects, and
 ### Works in Progress
 <hr>
 
-**Asymmetries in Intensity and Persistence of Reciprocity in Labour Markets** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: black;">Marco Fongoni</a>, <a href="https://www.strath.ac.uk/staff/dicksonalexdr/" style="color: black;">Alex Dickson</a>).
+*Asymmetries in Intensity and Persistence of Reciprocity in Labour Markets* (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: black;">Marco Fongoni</a>, <a href="https://www.strath.ac.uk/staff/dicksonalexdr/" style="color: black;">Alex Dickson</a>).
 
-**Beliefs on Children’s Human Capital Accumulation and Mothers at Work** (with Cesarine Boinet, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi)
+*Beliefs on Children’s Human Capital Accumulation and Mothers at Work* (with Cesarine Boinet, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi)
 
-**The Long Legacy of War on Health: Evidence from Cambodia** (with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>)
+*The Long Legacy of War on Health: Evidence from Cambodia* (with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>)
 
-**The child penalty: gender norms and occupational sorting** (with Cesarine Boinet and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>)
+*The child penalty: gender norms and occupational sorting* (with Cesarine Boinet and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>)
 
 
 [//]: This java script is the button to show abstract
