@@ -108,15 +108,17 @@ Identity Economics: Social Influence and Skill Development. **Journal of Economi
 	<summary> <a href="{{site.baseurl}}/files/jes_ideco_norris.pdf" style="font-weight:bold;color:#4183C4">Current Version (final submission)</a> </summary>
 </details>
 
-<!--&nbsp;&nbsp;&nbsp;[**Current Version (final submission)**]({{site.baseurl}}/files/jes_ideco_norris.pdf) -->
-<!-- <dl>
-<a href = "{{ site.baseurl }}/files/jes_ideco_norris.pdf"><b>Current Version (final submission) </b> </a> 
-</dl> -->
 
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
 
-<!-- Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub. -->
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
