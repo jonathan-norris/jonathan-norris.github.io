@@ -115,7 +115,7 @@ Within the economic literature, studies in identity economics, peer effects, and
 [idsur-draft]: {{site.baseurl}}/files/jes_ideco_norris.pdf
 [idsur-pub]: https://doi.org/10.1111/joes.12331
 
-### Works in Progress
+### Work in Progress
 <hr>
 
 Asymmetries in Intensity and Persistence of Reciprocity in Labour Markets (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: black;">Marco Fongoni</a>, <a href="https://www.strath.ac.uk/staff/dicksonalexdr/" style="color: black;">Alex Dickson</a>).
