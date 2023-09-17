@@ -8,12 +8,13 @@ date: 2020-5-5
 {% include base_path %}
 
 **The Long-Run Effects of Peers on Mental Health** (with <a href="https://lukaskiessling.github.io/" style="color: black;">Lukas Kiessling</a>), *The Economic Journal* 133, no. 649 (2023): 281-322. <br/>
-<small>[ <a href="#/" onclick="visib('lrpeermh')">Abstract</a> | [Draft]({{site.baseurl}}/files/kiessling_norris122021.pdf) | [Published Link][lrpeermh-pub] | [Replication Package][lrpeermh-repo] | [Media][lrpeermh-media] ] </small>
+<small>[ <a href="#/" onclick="visib('lrpeermh')">Abstract</a> | [Draft][lrpeermh-draft] | [Published Link][lrpeermh-pub] | [Replication Package][lrpeermh-repo] | [Media][lrpeermh-media] ] </small>
 
 <div id="lrpeermh" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper studies how peers in school affect students' mental health. Guided by a theoretical framework, we find that increasing students’ relative ranks in their cohorts by one standard deviation improves their mental health by 6\% of a standard deviation conditional on own ability. These effects are more pronounced for low-ability students, persistent for at least 14 years, and carry over to economic long-run outcomes. Moreover, we document a strong asymmetry: Students who receive negative rather than positive shocks react more strongly. Our findings therefore provide evidence on how the school environment can have long-lasting consequences for the well-being of individuals.
 </small><br><br/></div>
 
+[lrpeermh-draft]: {{site.baseurl}}/files/kiessling_norris122021.pdf
 [lrpeermh-pub]: https://doi.org/10.1093/ej/ueac039
 [lrpeermh-repo]: https://zenodo.org/record/6587421#.ZGJNWXbMKUl 
 [lrpeermh-media]: https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html 
@@ -30,7 +31,7 @@ We estimate the causal effect of mother's involvement on the amount of trouble a
 [schtr-pub]: https://doi.org/10.1007/s00148-023-00950-4
 
 
-Peer Gender and Schooling: Evidence from Ethiopia (with **[Daniel Borbely](https://sites.google.com/view/danielborbely/home)** and **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**). Accepted/in-press at the **Journal of Human Capital** (2022).
+**Peer Gender and Schooling: Evidence from Ethiopia** (with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>) and <a href="https://sites.google.com/view/agneseromiti/home)" style="color: black;">Agnese Romiti</a>), Accepted (2022), *Journal of Human Capital*.
 
 <details>
 	<summary><b>Abstract</b></summary>
