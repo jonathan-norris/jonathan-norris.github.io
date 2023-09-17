@@ -16,7 +16,7 @@ Hi and welcome. I work in applied economics with projects on a range of topics i
 ### Working Papers
 <hr>
 
-**Reference Dependent Aspirations and Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: darkerGray;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: darkerGray;">Agnese Romiti</a>, and Zhan Shi). <br/>
+**Reference Dependent Aspirations and Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: darkerGray">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: darkerGray">Agnese Romiti</a>, and Zhan Shi). <br/>
 <small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 08/2023)][peerinequality-draft] | [IZA Draft (previous version)][peerinequality-iza] ] </small>
 
 <div id="peerinequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
