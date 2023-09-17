@@ -43,7 +43,7 @@ This paper studies how classmate gender composition matters for school absences 
 
 
 
-**The Skill Development of the Children of Immigrants.** *Economics of Education Review* 78 (2020): 102036. with <a href="https://sites.google.com/view/mariehull/home" style="color: black;">Marie Hull</a> <br/>
+**The Skill Development of the Children of Immigrants** (with <a href="https://sites.google.com/view/mariehull/home" style="color: black;">Marie Hull</a>), *Economics of Education Review* 78 (2020): 102036. <br/>
 <small>[ <a href="#/" onclick="visib('coiskill')">Abstract</a> | [Draft][coiskill-draft] | [Published Link][coiskill-pub] ] </small>
 
 <div id="coiskill" style="display: none; text-align: justify; line-height: 1.2" ><small>
