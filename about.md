@@ -12,7 +12,7 @@ Hi and welcome. I work in applied economics with projects on a range of topics i
 
 <a href = "https://scholar.google.com/citations?user=8ZsnGpwAAAAJ&hl=en" style="color: black;"> Google Scholar Profile </a>
 
-<!-- &nbsp; -->
+&nbsp; 
 ### Working Papers
 <hr>
 
