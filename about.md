@@ -7,14 +7,16 @@ Hi and welcome. I work in applied economics with projects on a range of topics i
 
 
 Email: [jonathan.norris@strath.ac.uk](mailto:jonathan.norris@strath.ac.uk)
+
 <a href = "{{ site.baseurl }}/files/cv_norris.pdf"><b> CV </b> </a>
+
 <a href = "https://scholar.google.com/citations?user=8ZsnGpwAAAAJ&hl=en" style="color: darkGray"><b> Google Scholar Profile </b> </a>
 
 <!-- &nbsp; -->
 ### Working Papers
 <hr>
 
-**Reference Dependent Aspirations and Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: darkGray;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: darkGray;">Agnese Romiti</a>, and Zhan Shi). <br/>
+**Reference Dependent Aspirations and Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: darkerGray;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: darkerGray;">Agnese Romiti</a>, and Zhan Shi). <br/>
 <small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 08/2023)][peerinequality-draft] | [IZA Draft (previous version)][peerinequality-iza] ] </small>
 
 <div id="peerinequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
