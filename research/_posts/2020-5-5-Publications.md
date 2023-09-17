@@ -57,38 +57,34 @@ In this paper, we study the evolution of cognitive and noncognitive skills gaps 
 
 <!-- &nbsp;&nbsp;&nbsp;[**Current Version (final submission)**]({{site.baseurl}}/files/coi_skill2_EER_Revision_plusSuppApp.pdf) -->
 
-**Peers, Parents, and Attitudes about School**, *Journal of Human Capital* 14, no. 2 (Summer 2020): 290-342.
+**Peers, Parents, and Attitudes about School**, *Journal of Human Capital* 14, no. 2 (Summer 2020): 290-342. <br/>
+<small>[ <a href="#/" onclick="visib('peeratt')">Abstract</a> | [Draft][peeratt-draft] | [Published Link][peeratt-pub] ] </small>
 
-<details>
-	<summary><b>Abstract</b></summary>
+<div id="peeratt" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Educational attitudes are linked to long-term educational success through motivating effort and greater attention to the future. This study focuses on the role of friends and of parents in the school grade cohort in shaping adolescent attitude development. First, I explore the effect of friends' attitudes on an adolescent's attitudes. Second, I ask whether parental investments and educational expectations in the adolescent's school cohort can moderate the influence of friends on attitudes. I find that adolescents’ attitudes about school respond to friends’ attitudes and that parental educational expectations within a cohort can moderate the influence of friends on attitudes.
+</small><br><br/></div>
 
-		<p>
-		Educational attitudes are linked to long-term educational success through motivating effort and greater attention to the future. This study focuses on the role of friends and of parents in the school grade cohort in shaping adolescent attitude development. First, I explore the effect of friends' attitudes on an adolescent's attitudes. Second, I ask whether parental investments and educational expectations in the adolescent's school cohort can moderate the influence of friends on attitudes. I find that adolescents’ attitudes about school respond to friends’ attitudes and that parental educational expectations within a cohort can moderate the influence of friends on attitudes.
-		</p>
-</details>
+[peeratt-draft]: {{site.baseurl}}/files/ppa_norris_jhcfinal.pdf
+[peeratt-pub]: https://doi.org/10.1086/709507 
 
-<details>
-	<summary> <a href="{{site.baseurl}}/files/ppa_norris_jhcfinal.pdf" style="font-weight:bold;color:#4183C4">Current Version (final submission)</a> </summary>
-</details>
+
 
 <!-- &nbsp;&nbsp;&nbsp;[**Current Version (final submission)**]({{site.baseurl}}/files/ppa_norris_jhcfinal.pdf)-->
 <!-- <dl>
 <a href = "{{ site.baseurl }}/files/ppa_norris_jhcfinal.pdf"><b>Current Version (final submission) </b> </a> 
 </dl> -->
 
-Identity Economics: Social Influence and Skill Development. **Journal of Economic Surveys** 33, no. 5 (2019): 1389-1408
+**Identity Economics: Social Influence and Skill Development**, *Journal of Economic Surveys* 33, no. 5 (2019): 1389-1408. <br/>
+<small>[ <a href="#/" onclick="visib('idsur')">Abstract</a> | [Draft][idsur-draft] | [Published Link][idsur-pub] ] </small>
 
-<details>
-	<summary><b>Abstract</b></summary>
+<div id="idsur" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Within the economic literature, studies in identity economics, peer effects, and skill development have all suggested that social influences have an important role in determining choices. In this review, I draw on lessons learned from the identity economics literature to examine implications from the peer effects and skill development literature. I focus on the role of social identity in generating social group effects from peers and what role identity may have in shaping the development of skills from broader environments, parents and peers during childhood and adolescence. 
+</small><br><br/></div>
 
-		<p>
-		Within the economic literature, studies in identity economics, peer effects, and skill development have all suggested that social influences have an important role in determining choices. In this review, I draw on lessons learned from the identity economics literature to examine implications from the peer effects and skill development literature. I focus on the role of social identity in generating social group effects from peers and what role identity may have in shaping the development of skills from broader environments, parents and peers during childhood and adolescence. 
-		</p>
-</details>
+[idsur-draft]: {{site.baseurl}}/files/jes_ideco_norris.pdf
+[idsur-pub]: https://doi.org/10.1111/joes.12331
 
-<details>
-	<summary> <a href="{{site.baseurl}}/files/jes_ideco_norris.pdf" style="font-weight:bold;color:#4183C4">Current Version (final submission)</a> </summary>
-</details>
+
 
 
 [//]: This java script is the button to show abstract
