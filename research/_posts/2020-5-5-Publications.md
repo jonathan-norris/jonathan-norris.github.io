@@ -31,19 +31,17 @@ We estimate the causal effect of mother's involvement on the amount of trouble a
 [schtr-pub]: https://doi.org/10.1007/s00148-023-00950-4
 
 
-**Peer Gender and Schooling: Evidence from Ethiopia** (with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>) and <a href="https://sites.google.com/view/agneseromiti/home)" style="color: black;">Agnese Romiti</a>), Accepted (2022), *Journal of Human Capital*.
+**Peer Gender and Schooling: Evidence from Ethiopia** (with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>) and <a href="https://sites.google.com/view/agneseromiti/home)" style="color: black;">Agnese Romiti</a>), Accepted (2022), *Journal of Human Capital*. <br/>
+<small>[ <a href="#/" onclick="visib('peergender')">Abstract</a> | [Draft][peergender-draft] | [Published Link][schtr-pub] ] </small>
 
-<details>
-	<summary><b>Abstract</b></summary>
+<div id="schtr" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper studies how classmate gender composition matters for school absences and test scores in a context characterized by strong social norms and scarce school resources. We base our results on a unique survey of students across classrooms and schools in Ethiopia, exploiting random assignment of students to classrooms. We find a strong asymmetry: while females benefit from exposure to more female classmates with reduced absenteeism and improvement on math test scores, males are unaffected. We further find that exposure to more female classmates improves motivation and participation in class, and in general, that the effects of classmate gender composition are consistent with social interaction effects.
+</small><br><br/></div>
 
-		<p>
-		This paper studies how classmate gender composition matters for school absences and test scores in a context characterized by strong social norms and scarce school resources. We base our results on a unique survey of students across classrooms and schools in Ethiopia, exploiting random assignment of students to classrooms. We find a strong asymmetry: while females benefit from exposure to more female classmates with reduced absenteeism and improvement on math test scores, males are unaffected. We further find that exposure to more female classmates improves motivation and participation in class, and in general, that the effects of classmate gender composition are consistent with social interaction effects.
-		</p>
-</details>
+[peergender-draft]: {{site.baseurl}}/files/peergender_wp.pdf
+[peergender-pub]: https://doi.org/10.1086/723111
 
-<details>
-	<summary> <a href="{{site.baseurl}}/files/peergender_wp.pdf" style="font-weight:bold;color:#4183C4">Current Version</a> </summary>
-</details>
+
 
 The Skill Development of the Children of Immigrants. **Economics of Education Review** 78 (2020): 102036. (with **[Marie Hull](https://sites.google.com/view/mariehull/home)**)
 
