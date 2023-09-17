@@ -19,7 +19,8 @@ Hi and welcome. I work in applied economics with projects on a range of topics i
 This paper studies how peers in school affect students' mental health. Guided by a theoretical framework, we find that increasing students’ relative ranks in their cohorts by one standard deviation improves their mental health by 6\% of a standard deviation conditional on own ability. These effects are more pronounced for low-ability students, persistent for at least 14 years, and carry over to economic long-run outcomes. Moreover, we document a strong asymmetry: Students who receive negative rather than positive shocks react more strongly. Our findings therefore provide evidence on how the school environment can have long-lasting consequences for the well-being of individuals.
 </small><br><br/></div>
 
-[lrpeermh-draft]:{{ site.baseurl }}{% files/kiessling_norris122021.pdf %}
+
+[lrpeermh-draft]:"{{ site.baseurl }}/files/kiessling_norris122021.pdf"
 [lrpeermh-pub]: https://doi.org/10.1093/ej/ueac039
 [lrpeermh-repo]: https://zenodo.org/record/6587421#.ZGJNWXbMKUl 
 [lrpeermh-media]: https://www.faz.net/aktuell/wirtschaft/wie-leistungsvergleiche-zwischen-schuelern-krank-machen-17019068.html 
