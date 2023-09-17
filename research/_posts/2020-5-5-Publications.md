@@ -7,7 +7,7 @@ date: 2020-5-5
 
 {% include base_path %}
 
-**The Long-Run Effects of Peers on Mental Health** (with [Lukas Kiessling](https://lukaskiessling.github.io/)), *The Economic Journal* 133, no. 649 (2023): 281-322. <br/>
+**The Long-Run Effects of Peers on Mental Health** (with <a href="https://lukaskiessling.github.io/" style="color: black;">Lukas Kiessling</a>, *The Economic Journal* 133, no. 649 (2023): 281-322. <br/>
 <small>[ <a href="#/" onclick="visib('lrpeermh')">Abstract</a> | [Draft]({{site.baseurl}}/files/kiessling_norris122021.pdf) | [Published Link][lrpeermh-pub] | [Replication Package][lrpeermh-repo] | [Media][lrpeermh-media] ] </small>
 
 <div id="lrpeermh" style="display: none; text-align: justify; line-height: 1.2" ><small>
