@@ -70,6 +70,7 @@ p {
 
 a {
   color: $blue;
+  font: 15px/1.4 $helvetica;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
