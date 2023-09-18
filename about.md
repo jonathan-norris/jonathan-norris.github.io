@@ -7,12 +7,13 @@ permalink: /
 
 <!-- ![image]({{site.baseurl}}/images/cycling1.MP.jpg){width="200" height="200" style="display: block; margin: 0 auto"} -->
 
+<div>
 <img src="{{site.baseurl}}/images/cycling1.MP.jpg"
      alt="Picture"
      width="450"
      height="300"
      padding = "5px"
-     style="float:left" />
+     style="float:left" /></div>
 
 &nbsp;
 
