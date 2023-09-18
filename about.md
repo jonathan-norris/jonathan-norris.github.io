@@ -9,8 +9,8 @@ permalink: /
 
 <img src="{{site.baseurl}}/images/cycling1.MP.jpg"
      alt="Picture"
-     width="200"
-     height="200"
+     width="300"
+     height="300"
      style="display: block; margin: 0 auto" />
 
 [jonathan.norris@strath.ac.uk](mailto:jonathan.norris@strath.ac.uk)
