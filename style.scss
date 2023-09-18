@@ -20,7 +20,7 @@ html {
 
 body {
 	background: $white;
-  font-family: Lato;
+  font-family: $helvetica;;
   font: 18px;
   color: $black;
 }
@@ -72,7 +72,7 @@ p {
 
 a {
   color: $blue;
-  font: 16px $helvetica;
+  font: 16px $helveticaNeue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -196,7 +196,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $darkerGray;
   cursor: pointer;
   font-family: Lato;
   font-weight: 400;
@@ -207,7 +207,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   line-height: 1.2;
-  color: $gray;
+  color: $darkergray;
   font-size: 16px;
 
   @include mobile {
@@ -286,14 +286,13 @@ details > p {
   padding-left: .1em;
   color: $gray;
   font-size: 16px;
-  font-family: Lato;
 }
 
   blockquote {
     margin: 0em .8em;  
     border-left: none;
     padding-left: .1em;
-    color: $gray;
+    color: $darkgray;
     font-size: 16px;
     font-style: normal;
   }
