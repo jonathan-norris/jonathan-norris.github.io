@@ -17,9 +17,20 @@ html {
   font-size: 100%;
 }
 
+@font-face {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 400;
+  src: local("Lato"), url("https://mdn.github.io/web-fonts/LatoReg.ttf");
+}
+
+body {
+  font-family: Lato, sans-serif;
+}
+
 body {
 	background: $white;
-  font: 18px $helvetica;
+  font: 18px;
   color: $darkGray;
 }
 
@@ -31,7 +42,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $Lato;
   color: $darkerGray;
   font-weight: bold;
 
