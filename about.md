@@ -5,7 +5,7 @@ permalink: /
 
 <!-- Hi and welcome. I work in applied economics with projects on a range of topics including skill development, parenting, and mental health. Links to my work and project files are included where available. Thanks for dropping by! -->
 
-
+![image]({{site.baseurl}}/images/cycling1.MP.jpg)
 
 
 [jonathan.norris@strath.ac.uk](mailto:jonathan.norris@strath.ac.uk)
