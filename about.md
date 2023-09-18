@@ -11,7 +11,7 @@ permalink: /
      alt="Picture"
      width="450"
      height="300"
-     margin-right="5px";
+     margin-right="5px"
      style="float:left" />
 
 Research Fields: Applied Microeconomics, Economics of Inequality, Education and Mental Health
