@@ -14,6 +14,8 @@ permalink: /
      margin-right="10px"
      style="float:left" />
 
+&nbsp;
+
 Research Fields: Applied Microeconomics, Economics of Inequality, Education and Mental Health
 
 [jonathan.norris@strath.ac.uk](mailto:jonathan.norris@strath.ac.uk)
