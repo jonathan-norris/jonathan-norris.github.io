@@ -27,7 +27,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 840px;
   padding: 0 5px;
   width: 100%;
 }
@@ -209,6 +209,8 @@ img {
   line-height: 1.2;
   color: $darkerGray;
   font-size: 16px;
+  font-family: Lato;
+  font-weight: 400;
 
   @include mobile {
     margin: 3px 0;
@@ -262,7 +264,7 @@ nav {
 body {
   background: $white;
   font: 18px;
-  font-family: Lato;
+  font-family: $helveticaNeue;
   color: $black;
 }
 
@@ -292,7 +294,7 @@ details > p {
     margin: 0em .8em;  
     border-left: none;
     padding-left: .1em;
-    color: $darkGray;
+    color: $darkerGray;
     font-size: 16px;
     font-style: normal;
   }
