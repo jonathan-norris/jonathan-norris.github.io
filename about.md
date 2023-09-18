@@ -14,7 +14,7 @@ permalink: /
      height="auto"
      max-width="330px"
      min-width="10em"
-     style="float:left; margin: 0 0 10 0" /></div>
+     style="float:left; margin: 0 auto" /></div>
 
 &nbsp;
 
