@@ -72,7 +72,7 @@ p {
 
 a {
   color: $blue;
-  font: 16px Lato;
+  font: 16px $helvetica;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
