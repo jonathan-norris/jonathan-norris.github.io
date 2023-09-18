@@ -11,7 +11,7 @@ permalink: /
      alt="Picture"
      width="450"
      height="300"
-     margin-right="10px"
+     padding = "5px"
      style="float:left" />
 
 &nbsp;
