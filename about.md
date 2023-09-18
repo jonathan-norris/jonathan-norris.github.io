@@ -20,9 +20,9 @@ permalink: /
 
 Research Fields: Applied Microeconomics, Economics of Inequality, Education and Mental Health
 
-<a href = "{{ site.baseurl }}/files/cv_norris.pdf" style="color: black;"> <b> CV </b> </a>
+<a href = "{{ site.baseurl }}/files/cv_norris.pdf" style="color: $black;"> <b> CV </b> </a>
 
-<a href = "https://scholar.google.com/citations?user=8ZsnGpwAAAAJ&hl=en" style="color: black;"> <b> Google Scholar Profile </b> </a>
+<a href = "https://scholar.google.com/citations?user=8ZsnGpwAAAAJ&hl=en" style="color: $black;"> <b> Google Scholar Profile </b> </a>
 
 [jonathan.norris@strath.ac.uk](mailto:jonathan.norris@strath.ac.uk)
 
@@ -30,7 +30,7 @@ Research Fields: Applied Microeconomics, Economics of Inequality, Education and 
 ### Working Papers
 <hr>
 
-**Reference Dependent Aspirations and Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: black;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi). <br/>
+**Reference Dependent Aspirations and Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: $black;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi). <br/>
 <small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 08/2023)][peerinequality-draft] | [IZA Draft (previous version)][peerinequality-iza] ] </small>
 
 
