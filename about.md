@@ -26,7 +26,7 @@ Research Fields: Applied Microeconomics, Economics of Inequality, Education and 
 
 [jonathan.norris@strath.ac.uk](mailto:jonathan.norris@strath.ac.uk)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; 
 ### Working Papers
 <hr>
 
