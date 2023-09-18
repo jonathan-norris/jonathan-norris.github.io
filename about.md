@@ -14,7 +14,7 @@ permalink: /
      height="auto"
      max-width="330px"
      min-width="10em"
-     style="float:left; margin: 0 auto" /></div>
+     style="display: block; margin: 0 auto" /></div>
 
 &nbsp;
 
@@ -26,18 +26,7 @@ Research Fields: Applied Microeconomics, Economics of Inequality, Education and 
 
 <a href = "https://scholar.google.com/citations?user=8ZsnGpwAAAAJ&hl=en" style="color: black;"> Google Scholar Profile </a>
 
-&nbsp;
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp; 
-&nbsp; 
-&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ### Working Papers
 <hr>
 
