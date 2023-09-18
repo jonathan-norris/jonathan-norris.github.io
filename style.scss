@@ -27,13 +27,13 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 775px;
   padding: 0 3px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: Lato;
   color: $darkerGray;
   font-weight: bold;
 
@@ -72,7 +72,7 @@ p {
 
 a {
   color: $blue;
-  font: 18px $helvetica;
+  font: 18px Lato;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
