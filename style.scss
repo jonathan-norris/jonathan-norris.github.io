@@ -261,8 +261,8 @@ nav {
 
 body {
   background: $white;
-  font: 17px Lato;
-  color: $darkGray;
+  font: 18px Lato;
+  color: black;
 }
 
 details > summary {
@@ -271,7 +271,7 @@ details > summary {
   border-left: none;
   padding-left: .1em;
   color: $blue; 
-  font-size: 17px;
+  font-size: 16px;
   cursor: pointer;
   list-style-type: none;
 }
