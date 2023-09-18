@@ -20,11 +20,11 @@ permalink: /
 
 Research Fields: Applied Microeconomics, Economics of Inequality, Education and Mental Health
 
+<a href = "{{ site.baseurl }}/files/cv_norris.pdf" style="color: black;"> <b> CV </b> </a>
+
+<a href = "https://scholar.google.com/citations?user=8ZsnGpwAAAAJ&hl=en" style="color: black;"> <b> Google Scholar Profile </b> </a>
+
 [jonathan.norris@strath.ac.uk](mailto:jonathan.norris@strath.ac.uk)
-
-<a href = "{{ site.baseurl }}/files/cv_norris.pdf" style="color: black;"> CV </a>
-
-<a href = "https://scholar.google.com/citations?user=8ZsnGpwAAAAJ&hl=en" style="color: black;"> Google Scholar Profile </a>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ### Working Papers
