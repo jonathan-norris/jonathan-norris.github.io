@@ -10,13 +10,11 @@ permalink: /
 <div>
 <img src="{{site.baseurl}}/images/cycling1.MP.jpg"
      alt="Picture"
-     width="75%"
+     width="70%"
      height="auto"
      max-width="330px"
      min-width="10em"
-     margin-left="auto"
-     margin-right="auto" 
-     style="float:left; margin 0 0 10 0" /></div>
+     style="float:left; margin: 0 0 10 0" /></div>
 
 &nbsp;
 
