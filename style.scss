@@ -261,7 +261,8 @@ nav {
 
 body {
   background: $white;
-  font: 18px Lato;
+  font: 18px;
+  font-family: Lato;
   color: black;
 }
 
@@ -285,7 +286,7 @@ details > p {
   padding-left: .1em;
   color: $gray;
   font-size: 16px;
-  font-style: normal;
+  font-family: Lato;
 }
 
   blockquote {
