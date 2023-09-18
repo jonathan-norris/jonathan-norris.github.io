@@ -11,7 +11,7 @@ permalink: /
      alt="Picture"
      width="400"
      height="300"
-     style="display: block; margin: 0 auto" />
+     style="float:left" />
 
 [jonathan.norris@strath.ac.uk](mailto:jonathan.norris@strath.ac.uk)
 
