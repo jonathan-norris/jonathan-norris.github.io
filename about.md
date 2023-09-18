@@ -9,7 +9,7 @@ permalink: /
 
 <img src="{{site.baseurl}}/images/cycling1.MP.jpg"
      alt="Picture"
-     width="400"
+     width="450"
      height="300"
      style="float:left" />
 
