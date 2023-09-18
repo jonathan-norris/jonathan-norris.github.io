@@ -17,16 +17,10 @@ html {
   font-size: 100%;
 }
 
-@font-face {
-  font-family: Lato;
-  font-style: normal;
-  font-weight: 400;
-  src: local("Lato"), url("https://mdn.github.io/web-fonts/LatoReg.ttf");
-}
 
 body {
 	background: $white;
-  font-family: Lato, sans-serif;
+  font-family: Lato;
   font: 18px;
   color: $darkGray;
 }
