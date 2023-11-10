@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-<!-- Hi and welcome. I work in applied economics with projects on a range of topics including skill development, parenting, and mental health. Links to my work and project files are included where available. Thanks for dropping by! -->
+<!-- Old.... Hi and welcome. I work in applied economics with projects on a range of topics including skill development, parenting, and mental health. Links to my work and project files are included where available. Thanks for dropping by! -->
 
 <!-- ![image]({{site.baseurl}}/images/cycling1.MP.jpg){width="200" height="200" style="display: block; margin: 0 auto"} -->
 
