@@ -41,6 +41,14 @@ We study the long-run effects of income inequality within peer compositions in s
 [peerinequality-draft]: {{site.baseurl}}/files/peerinequality_Update.pdf
 [peerinequality-iza]: https://www.iza.org/publications/dp/15785/reference-dependent-aspirations-and-peer-effects-in-education
 
+**The long legacy of war on health: Evidence from Cambodia** (with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>). <br/>
+<small>[ <a href="#/" onclick="visib('cambodiabomb')">Abstract</a> | [Draft (updated 08/2023)][cambodiabomb-draft] ] </small> 
+
+<div id="cambodiabomb" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We study the long-run impacts of local area exposures to US bombing in Cambodia on health outcomes among those residing in these locations many years later. We leverage geo-coded individual data and a spatial regression discontinuity adapted to many boundaries. Our study is separate from those that focus on the impact of being exposed to bombings as a child; rather, we study how such disasters can map to health outcomes for future generations. We show that in fact, regions directly affected by bombings exhibit better health outcomes compared to those just beyond the bombing boundaries, indicated by higher Height-for-age Z-scores and a decreased likelihood of anemia. This result remains robust to a variety of potential threats to identification. We then leverage a wide range of data to show that improvements in soil fertility and access to health facilities are likely mechanisms explaining the observed enhancements in health outcomes. Our evidence suggests that in the post-conflict period, infrastructure development favored areas that experienced greater degradation in the past. Our results overall offer an important lesson that while disasters can have harmful impacts, how outcomes are transformed for future generations will depend. Put differently, disaster is not necessarily destiny. 
+</small><br><br/></div>
+
+[cambodiabomb-draft]: {{site.baseurl}}/files/cambodia_lrbombing.pdf
 
 **Marijuana Legalization and Mental Health** (with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>, <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>, and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>). <br/>
 <small>[ <a href="#/" onclick="visib('mjmh')">Abstract</a> | [IZA Draft][mjmh-izadraft] | [Vox EU][mjmh-voxeu] ] </small>
@@ -125,16 +133,17 @@ Within the economic literature, studies in identity economics, peer effects, and
 ### Work in Progress
 <hr>
 
-Asymmetries in Intensity and Persistence of Reciprocity in Labour Markets (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: black;">Marco Fongoni</a>, <a href="https://www.strath.ac.uk/staff/dicksonalexdr/" style="color: black;">Alex Dickson</a>).
-
-
 Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with Cesarine Boinet, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi)
 
 
-The Long Legacy of War on Health: Evidence from Cambodia (with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>)
-
-
 The Child Penalty: Gender Norms and Occupational Sorting (with Cesarine Boinet and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>)
+
+
+Exposure to Inequality and the Heterogenous Effects of Shocks on Mental Health** (with <a href="https://sites.google.com/view/prakashpathak" style="color: black;">Pathak Prakash</a>)
+
+
+Asymmetries in Intensity and Persistence of Reciprocity in Labour Markets (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: black;">Marco Fongoni</a>, <a href="https://www.strath.ac.uk/staff/dicksonalexdr/" style="color: black;">Alex Dickson</a>).
+
 
 
 [//]: This java script is the button to show abstract
