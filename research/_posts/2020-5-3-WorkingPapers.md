@@ -11,4 +11,6 @@ date: 2020-5-3
 
 **The child penalty: gender norms and occupational sorting** (with Cesarine Boinet and **[Agnese Romiti](https://sites.google.com/view/agneseromiti/home)**)
 
+**Exposure to Inequality and the Heterogenous Effects of Shocks on Mental Health** (with **[Pathak Prakash](https://sites.google.com/view/prakashpathak)**)
+
 <!-- **The Impact of Diversity in High School on Assortative Mating** (with **[Joel Han](https://www.joelkyhan.com/)**) -->
