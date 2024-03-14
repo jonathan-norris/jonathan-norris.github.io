@@ -31,7 +31,7 @@ Research Fields: Applied Microeconomics, Economics of Inequality, Education and 
 <hr>
 
 **Aspirations and Inequality: Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: #000;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi). <br/>
-<small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 08/2023)][peerinequality-draft] | [IZA Draft (previous version; different title)][peerinequality-iza] ] </small>
+<small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 14/2024)][peerinequality-draft] | [IZA Draft (previous version; different title)][peerinequality-iza] ] </small>
 
 
 <div id="peerinequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
