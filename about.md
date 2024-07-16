@@ -30,12 +30,12 @@ Research Fields: Applied Microeconomics, Economics of Inequality, Education and 
 ### Working Papers
 <hr>
 
-**Aspirations and Inequality: Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: #000;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi). <br/>
+**Income Inequality and Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: #000;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi). <br/>
 <small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 14/2024)][peerinequality-draft] | [IZA Draft (previous version; different title)][peerinequality-iza] ] </small>
 
 
 <div id="peerinequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We study the long-run effects of income inequality within peer compositions in schools. We propose a theoretical framework based on reference dependence where inequality in peer groups can generate aspiration gaps. Guided by predictions from this framework we find that an increase in the share of low-income peers within school-cohorts improves the educational outcomes of low-income students and negatively affects high-income students. We then find that better connections in the school network has an important role in mitigating these effects. Our results point to the role of inequality among peers, while also demonstrating potential to avoid these consequences.
+We study the long-run effects of income inequality within peer compositions. An increase in the share of low-income peers within school-cohorts improves the educational outcomes of low-income students and negatively affects high-income students. We show this pattern is not likely explained by commonly observed mechanisms. We then propose a model based on reference-dependent preferences and social comparison that rationalizes our findings, highlighting the role of frustration or motivation depending on students’ relative income. We also provide evidence consistent with this mechanism. Finally, we show that better connections in school can help to avoid such unintended consequences of income inequality.
 </small><br><br/></div>
 
 [peerinequality-draft]: {{site.baseurl}}/files/peerinequality_Update.pdf
