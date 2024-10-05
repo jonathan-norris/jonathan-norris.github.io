@@ -41,24 +41,27 @@ We study the long-run effects of income inequality within peer compositions. An 
 [peerinequality-draft]: {{site.baseurl}}/files/peerinequality_Update.pdf
 [peerinequality-iza]: https://www.iza.org/publications/dp/15785/reference-dependent-aspirations-and-peer-effects-in-education
 
-**The aerial bombing of Cambodia and health in very long-run** (with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>). <br/>
+**The aerial bombing of Cambodia and health in the very long-run** (with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>). <br/>
 <small>[ <a href="#/" onclick="visib('cambodiabomb')">Abstract</a> | [Draft][cambodiabomb-draft] ] </small> 
 
 <div id="cambodiabomb" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We study the long-run impacts of local area exposures to US bombing in Cambodia on health outcomes among those residing in these locations many years later. We leverage geo-coded individual data and a spatial regression discontinuity adapted to many boundaries. Our study is separate from those that focus on the impact of being exposed to bombings as a child; rather,we study how such disasters can map to health outcomes for future generations. We show that in fact, regions directly affected by bombings exhibit better health outcomes compared to those just beyond the bombing boundaries, indicated by higher Height-for-age Z-scores and a decreased likelihood of anemia. This result remains robust to a variety of potential threats to identification. We then leverage a wide range of data to show that improvements in soil fertility and access to health facilities are likely mechanisms explaining the observed enhancements in health outcomes. Our evidence suggests that in the post-conflict period, infrastructure development favored areas that experienced greater degradation in the past. Our results overall offer an important lesson that while disasters can have harmful impacts, how outcomes are transformed for future generations will depend. Put differently, disaster is not necessarily destiny. 
+We study the long-run impacts of local area exposures to US bombing in Cambodia on health outcomes among those residing in these locations many years later. Our study is separate from those that focus on the impact of being exposed to bombings as a child; rather, we study how conflicts can map to health outcomes for future generations. Using a wide range of geo-coded data and a spatial regression discontinuity adapted to many boundaries, we find that the long-term health impacts of past bombings vary significantly by location, depending on whether the bombs still influence activities today. We find that in areas where pre-bombing soil was infertile, harder ground, and unexploded ordinance (UXO) is less likely, local area exposure to past bombing has positive effects on health, indicated by higher Height-for-age Z-scores, a decreased likelihood of being underweight or suffering from anemia. In contrast, fertile areas, softer ground, where bombs were more likely to fail and UXO remains a threat show either null or harmful effects. We then utilize numerous data sources to show that local economic development and improved access to health facilities are likely mechanisms explaining the positive effects in low UXO locations today. In regions free from the dangers of UXO, significant investments in economic activities and healthcare infrastructure have mitigated the negative effects of past bombing, even improving health outcomes post-conflict. However, in areas where UXO remains a threat, development has been hindered, and negative impacts persist. Our results overall offer an important lesson that while conflicts can be harmful, their impacts on future generations can be mitigated through investments in the post-conflict era, as long as remnants of war no longer remain.
 </small><br><br/></div>
 
 [cambodiabomb-draft]: {{site.baseurl}}/files/cambodia_lrbombing.pdf
 
-**Marijuana Legalization and Mental Health** (with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>, <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>, and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>) *Under-going significant revisions and results are likely to change*. <br/>
-<small>[ <a href="#/" onclick="visib('mjmh')">Abstract</a> | [IZA Draft][mjmh-izadraft] | [Vox EU][mjmh-voxeu] ] </small>
+**The Motherhood Penalty: Gender Norms, Occupational Sorting, and Labour Supply** (with <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a> and <a href="https://cesarine-boinet.github.io/" style="color: black;">C\'esarine Boinet</a>)  <br/>
+<small>[ <a href="#/" onclick="visib('mpnorms')">Abstract</a> | [Draft][mpnorms-draft] ] </small>
 
-<div id="mjmh" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This study examines the effects of U.S. state-level marijuana policies on mental health. Using data from three nationally representative data sets and estimating difference-in-differences models that account for the staggered implementation of both medical and recreational marijuana legislation, we evaluate the impact on marijuana use as well as two measures of mental distress. We show that marijuana laws have positive effects on marijuana use, but find no evidence for any effect on mental health on average. Nonetheless, null aggregate effects mask sharp heterogeneities across the age distribution. Our findings show that elderly individuals (age 60 and older) benefit from medical marijuana legalization in terms of better mental health, whereas legalizing recreational marijuana produces negative mental health effects for younger individuals (below age 35). The effects of medical marijuana legislation are driven by elderly people with pre-existing chronic health conditions, whereas those of recreational marijuana legislation are driven by younger and relatively healthy individuals. Furthermore, results are stronger for women than for men. 
+<div id="mpnorms" style="display: none; text-align: justify; line-height: 1.2" ><small>
+In this paper, we examine how pre-birth gender norms shape women's labor market trajectories and occupational choices around motherhood in the United Kingdom. Using data from the British Household Panel Survey, we first quantify the impact of gender norms on earnings and labor supply post-childbirth. Our results show that traditional mothers experience a 18-percentage-point ($pp$) higher motherhood penalty in earnings and a 20-$pp$ lower motherhood penalty in hours worked compared to egalitarian mothers. Second, we investigate the role of pre-birth comparative advantage within couples, finding that this mechanism applies only to egalitarian parents.
+Third, we examine the interaction between occupational characteristics, including their degree of family-friendliness, and pre-birth gender norms. We find that accounting for occupational sorting significantly reduces the average earnings penalty for both traditional and egalitarian mothers, driven entirely by hours worked for traditional mothers. In addition, we show that occupational sorting explains 80\% of the short-run earnings penalty gap between traditional and egalitarian mothers and eliminates the difference in hours worked penalties entirely.
+Thus, traditional women seem to sort pre-birth into occupations that facilitate a larger reduction in hours worked post-motherhood, which in turn have a substantial impact on their earnings trajectory. 
 </small><br><br/></div>
 
-[mjmh-izadraft]: https://www.iza.org/publications/dp/15729/marijuana-legalization-and-mental-health
-[mjmh-voxeu]: https://cepr.org/voxeu/columns/marijuana-legalisation-and-mental-health-some-benefit-others-are-hurt 
+<!-- [mpnorms-izadraft]: https://www.iza.org/publications/dp/15729/marijuana-legalization-and-mental-health -->
+[mpnorms-draft]: {{site.baseurl}}/files/penatly_norms_draft.pdf
+
 
 ### Published Papers
 <hr>
@@ -135,14 +138,27 @@ Within the economic literature, studies in identity economics, peer effects, and
 
 Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with Cesarine Boinet, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi)
 
-
-The Child Penalty: Gender Norms and Occupational Sorting (with Cesarine Boinet and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>)
-
-
-Exposure to Inequality and the Heterogenous Effects of Shocks on Mental Health** (with <a href="https://sites.google.com/view/prakashpathak" style="color: black;">Pathak Prakash</a>)
-
-
 Asymmetries in Intensity and Persistence of Reciprocity in Labour Markets (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: black;">Marco Fongoni</a>, <a href="https://www.strath.ac.uk/staff/dicksonalexdr/" style="color: black;">Alex Dickson</a>).
+
+
+
+### Dustbin Papers
+
+**Marijuana Legalization and Mental Health** (with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>, <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>, and <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>) <br/>
+<small>[ <a href="#/" onclick="visib('mjmh')">Why is this retired?</a> | [IZA Draft][mjmh-izadraft] ] </small>
+
+<div id="mjmh" style="display: none; text-align: justify; line-height: 1.2" ><small>
+The analysis of the medical and recreational marijuana effects on mental health are complicated by two points. One, there are effectively two treatments when they occur, a prior medical marijuana policy (MMLs) and then a recreational marijuana policy (RMLs). The RML policies alway follow in states with existing MMLs. There are approaches in the literature to deal with this, but in our view without more data the reliability here is dubious, at least in the time frame we were studying. 
+
+Second, the implementation of RMLs for most of the cases in our panel happens to occur during a period that the trends in mental health change drastically. This is something, as far as we are aware, that no one has pointed out in terms of how this could complicate the estimation of RML effects. Why could it complicate estimation? While this change in trend is happening across the US, for a common trends assumption to hold in our setting would require that this change happens exactly the same across all treated and control comparisons. We find this hard to believe once looking deeply enough at just how drastic the mental health trends change starting from around 2013 or 2014. While referees had other valuable concerns about the paper, this was not pointed out. Nevertheless, in our estimation, pushing forward would not be useful to the literature.
+
+A potential idea, is to look carefully at the change in mental health trends happening across the US during the 2010s and use this to assess clearly the difficulty for estimating RML effects. Cast against the backdrop of MML effects the picture becomes messy. In our view, this creates a circumstance that is difficult to effectively estimate effects in a believable way. How far these concerns extend to other settings interested in RML effects is unclear. 
+
+</small><br><br/></div>
+
+[mjmh-izadraft]: https://www.iza.org/publications/dp/15729/marijuana-legalization-and-mental-health
+
+
 
 
 
