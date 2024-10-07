@@ -60,7 +60,7 @@ Thus, traditional women seem to sort pre-birth into occupations that facilitate 
 </small><br><br/></div>
 
 <!-- [mpnorms-izadraft]: https://www.iza.org/publications/dp/15729/marijuana-legalization-and-mental-health -->
-[mpnorms-draft]: {{site.baseurl}}/files/penatly_norms_draft.pdf
+[mpnorms-draft]: {{site.baseurl}}/files/penalty_norms_draft.pdf
 
 
 ### Published Papers
