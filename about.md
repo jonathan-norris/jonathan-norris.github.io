@@ -18,7 +18,7 @@ permalink: /
 
 &nbsp;
 
-Research Fields: Applied Microeconomics, Economics of Inequality, Education and Mental Health
+Research Fields: Economics and Inequality, Economics and Beliefs
 
 <a href = "{{ site.baseurl }}/files/cv_norris.pdf" style="color: #000;"> <b> CV </b> </a>
 
@@ -54,8 +54,8 @@ We study the long-run impacts of local area exposures to US bombing in Cambodia 
 <small>[ <a href="#/" onclick="visib('mpnorms')">Abstract</a> | [Draft][mpnorms-draft] ] </small>
 
 <div id="mpnorms" style="display: none; text-align: justify; line-height: 1.2" ><small>
-In this paper, we examine how pre-birth gender norms shape women's labor market trajectories and occupational choices around motherhood in the United Kingdom. Using data from the British Household Panel Survey, we first quantify the impact of gender norms on earnings and labor supply post-childbirth. Our results show that traditional mothers experience a 18-percentage-point ($pp$) higher motherhood penalty in earnings and a 20-$pp$ lower motherhood penalty in hours worked compared to egalitarian mothers. Second, we investigate the role of pre-birth comparative advantage within couples, finding that this mechanism applies only to egalitarian parents.
-Third, we examine the interaction between occupational characteristics, including their degree of family-friendliness, and pre-birth gender norms. We find that accounting for occupational sorting significantly reduces the average earnings penalty for both traditional and egalitarian mothers, driven entirely by hours worked for traditional mothers. In addition, we show that occupational sorting explains 80\% of the short-run earnings penalty gap between traditional and egalitarian mothers and eliminates the difference in hours worked penalties entirely.
+In this paper, we examine how pre-birth gender norms shape women's labor market trajectories and occupational choices around motherhood in the United Kingdom. Using data from the British Household Panel Survey, we first quantify the impact of gender norms on earnings and labor supply post-childbirth. Our results show that traditional mothers experience a 18-percentage-point (pp) higher motherhood penalty in earnings and a 20-pp lower motherhood penalty in hours worked compared to egalitarian mothers. Second, we investigate the role of pre-birth comparative advantage within couples, finding that this mechanism applies only to egalitarian parents.
+Third, we examine the interaction between occupational characteristics, including their degree of family-friendliness, and pre-birth gender norms. We find that accounting for occupational sorting significantly reduces the average earnings penalty for both traditional and egalitarian mothers, driven entirely by hours worked for traditional mothers. In addition, we show that occupational sorting explains 80% of the short-run earnings penalty gap between traditional and egalitarian mothers and eliminates the difference in hours worked penalties entirely.
 Thus, traditional women seem to sort pre-birth into occupations that facilitate a larger reduction in hours worked post-motherhood, which in turn have a substantial impact on their earnings trajectory. 
 </small><br><br/></div>
 
