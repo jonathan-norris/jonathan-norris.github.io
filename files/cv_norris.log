@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.7)  25 MAR 2024 15:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.7)  26 OCT 2024 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1331,9 +1331,9 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 80.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
-(Font)              scaled to size 10.95pt on input line 91.
+(Font)              scaled to size 10.95pt on input line 92.
 
-Overfull \hbox (26.73718pt too wide) in alignment at lines 78--196
+Overfull \hbox (28.46724pt too wide) in alignment at lines 78--195
  [] [] 
  []
 
@@ -1344,15 +1344,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.334 \end{document}
-                     [2] (cv_norris.aux)
+l.195 \end{longtable}
+                      [2]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.333 \end{document}
+                     [3] (cv_norris.aux)
 Package rerunfilecheck Info: File `cv_norris.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  29343 strings out of 476339
  539262 string characters out of 5786704
- 1883340 words of memory out of 5000000
+ 1881340 words of memory out of 5000000
  49170 multiletter control sequences out of 15000+600000
  595328 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1367,9 +1373,9 @@ l/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/cxb18
 ic.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcha
 rter/XCharter-Italic.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv_norris.pdf (2 pages, 271883 bytes).
+Output written on cv_norris.pdf (3 pages, 272858 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 62 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  32781 words of extra memory for PDF output out of 35830 (max. 10000000)
 
