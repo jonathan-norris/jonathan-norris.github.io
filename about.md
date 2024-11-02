@@ -40,7 +40,7 @@ When deciding whether to maintain a career, mothers may face pressure to sort ou
 [beliefsmomswork-draft]: {{site.baseurl}}/files/beliefs_moms_work.pdf
 
 **The Motherhood Penalty: Gender Norms, Occupational Sorting, and Labour Supply** (with <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a> and <a href="https://cesarine-boinet.github.io/" style="color: black;">C\'esarine Boinet</a>)  <br/>
-<small>[ <a href="#/" onclick="visib('mpnorms')">Abstract</a> | [Draft][mpnorms-draft] | [IZA Draft][mpnorms-izadraft] </small>
+<small>[ <a href="#/" onclick="visib('mpnorms')">Abstract</a> | [Draft][mpnorms-draft] | [IZA Draft][mpnorms-izadraft] ] </small>
 
 <div id="mpnorms" style="display: none; text-align: justify; line-height: 1.2" ><small>
 In this paper, we examine how pre-birth gender norms shape women's labor market trajectories and occupational choices around motherhood in the United Kingdom. Using data from the British Household Panel Survey, we first quantify the impact of gender norms on earnings and labor supply post-childbirth. Our results show that traditional mothers experience a 18-percentage-point (pp) higher motherhood penalty in earnings and a 20-pp lower motherhood penalty in hours worked compared to egalitarian mothers. Second, we investigate the role of pre-birth comparative advantage within couples, finding that this mechanism applies only to egalitarian parents.
