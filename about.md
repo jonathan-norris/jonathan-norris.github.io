@@ -30,9 +30,29 @@ Research Fields: Economics and Inequality, Economics and Beliefs
 ### Working Papers
 <hr>
 
-**Income Inequality and Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: #000;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi). <br/>
-<small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 27/08/2024)][peerinequality-draft] | [IZA Draft (previous version; different title)][peerinequality-iza] ] </small>
+**Beliefs on Children’s Human Capital Accumulation and Mothers at Work** (with <a href="https://cesarine-boinet.github.io/" style="color: black;">C\'esarine Boinet</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, <a href="https://sites.google.com/view/paultelemo/home" style="color: black;">Paul Telemo</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>) <br/>
+<small>[ <a href="#/" onclick="visib('beliefsmomswork')">Abstract</a> | [Draft][beliefsmomswork-draft] ] </small>
 
+<div id="beliefsmomswork" style="display: none; text-align: justify; line-height: 1.2" ><small>
+When deciding whether to maintain a career, mothers may face pressure to sort out of the labor market from beliefs on women’s absolute advantage in child-rearing even when their earnings potential equals that of men. Guided by a simple theoretical model to highlight the role of these beliefs and develop a target belief distribution, we design a survey to estimate beliefs on absolute advantage, finding strong evidence for their presence. We experimentally test mechanisms that may underlie these beliefs, showing that with equivalent time available women relative to men are assumed to spend more time on investments with children. This suggests that policy solely focused on equalizing earnings potential may yet fail to close gender gaps and indicates a need to be informative about the outcomes of children when mothers work. We then conduct an information experiment that provides factual information on the performance of children with full-time working mothers. Using a rich set of quantitative measures and qualitative written responses, we find that respondents who initially under-estimated children’s outcomes when mothers work full-time adjust toward accurate perceptions and reduce their expectations of harm becoming less likely to expect lower time investments into children. Our results suggest a role for policy to target channels where individual’s may be misinformed on children’s outcomes when mothers maintain careers.
+</small><br><br/></div>
+
+[beliefsmomswork-draft]: {{site.baseurl}}/files/beliefs_moms_work.pdf
+
+**The Motherhood Penalty: Gender Norms, Occupational Sorting, and Labour Supply** (with <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a> and <a href="https://cesarine-boinet.github.io/" style="color: black;">C\'esarine Boinet</a>)  <br/>
+<small>[ <a href="#/" onclick="visib('mpnorms')">Abstract</a> | [Draft][mpnorms-draft] | [IZA Draft][mpnorms-izadraft] </small>
+
+<div id="mpnorms" style="display: none; text-align: justify; line-height: 1.2" ><small>
+In this paper, we examine how pre-birth gender norms shape women's labor market trajectories and occupational choices around motherhood in the United Kingdom. Using data from the British Household Panel Survey, we first quantify the impact of gender norms on earnings and labor supply post-childbirth. Our results show that traditional mothers experience a 18-percentage-point (pp) higher motherhood penalty in earnings and a 20-pp lower motherhood penalty in hours worked compared to egalitarian mothers. Second, we investigate the role of pre-birth comparative advantage within couples, finding that this mechanism applies only to egalitarian parents.
+Third, we examine the interaction between occupational characteristics, including their degree of family-friendliness, and pre-birth gender norms. We find that accounting for occupational sorting significantly reduces the average earnings penalty for both traditional and egalitarian mothers, driven entirely by hours worked for traditional mothers. In addition, we show that occupational sorting explains 80% of the short-run earnings penalty gap between traditional and egalitarian mothers and eliminates the difference in hours worked penalties entirely.
+Thus, traditional women seem to sort pre-birth into occupations that facilitate a larger reduction in hours worked post-motherhood, which in turn have a substantial impact on their earnings trajectory. 
+</small><br><br/></div>
+
+[mpnorms-draft]: {{site.baseurl}}/files/penalty_norms_draft.pdf
+[mpnorms-izadraft]: https://www.iza.org/publications/dp/17334/the-motherhood-penalty-gender-norms-occupational-sorting-and-labor-supply 
+
+**Income Inequality and Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: #000;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>). <br/>
+<small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 27/08/2024)][peerinequality-draft] | [IZA Draft (previous version; different title)][peerinequality-iza] ] </small>
 
 <div id="peerinequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We study the long-run effects of income inequality within peer compositions. An increase in the share of low-income peers within school-cohorts improves the educational outcomes of low-income students and negatively affects high-income students. We show this pattern is not likely explained by commonly observed mechanisms. We then propose a model based on reference-dependent preferences and social comparison that rationalizes our findings, highlighting the role of frustration or motivation depending on students’ relative income. We also provide evidence consistent with this mechanism. Finally, we show that better connections in school can help to avoid such unintended consequences of income inequality.
@@ -49,19 +69,6 @@ We study the long-run impacts of local area exposures to US bombing in Cambodia 
 </small><br><br/></div>
 
 [cambodiabomb-draft]: {{site.baseurl}}/files/cambodia_lrbombing.pdf
-
-**The Motherhood Penalty: Gender Norms, Occupational Sorting, and Labour Supply** (with <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a> and <a href="https://cesarine-boinet.github.io/" style="color: black;">C\'esarine Boinet</a>)  <br/>
-<small>[ <a href="#/" onclick="visib('mpnorms')">Abstract</a> | [Draft][mpnorms-draft] ] </small>
-
-<div id="mpnorms" style="display: none; text-align: justify; line-height: 1.2" ><small>
-In this paper, we examine how pre-birth gender norms shape women's labor market trajectories and occupational choices around motherhood in the United Kingdom. Using data from the British Household Panel Survey, we first quantify the impact of gender norms on earnings and labor supply post-childbirth. Our results show that traditional mothers experience a 18-percentage-point (pp) higher motherhood penalty in earnings and a 20-pp lower motherhood penalty in hours worked compared to egalitarian mothers. Second, we investigate the role of pre-birth comparative advantage within couples, finding that this mechanism applies only to egalitarian parents.
-Third, we examine the interaction between occupational characteristics, including their degree of family-friendliness, and pre-birth gender norms. We find that accounting for occupational sorting significantly reduces the average earnings penalty for both traditional and egalitarian mothers, driven entirely by hours worked for traditional mothers. In addition, we show that occupational sorting explains 80% of the short-run earnings penalty gap between traditional and egalitarian mothers and eliminates the difference in hours worked penalties entirely.
-Thus, traditional women seem to sort pre-birth into occupations that facilitate a larger reduction in hours worked post-motherhood, which in turn have a substantial impact on their earnings trajectory. 
-</small><br><br/></div>
-
-<!-- [mpnorms-izadraft]: https://www.iza.org/publications/dp/15729/marijuana-legalization-and-mental-health -->
-[mpnorms-draft]: {{site.baseurl}}/files/penalty_norms_draft.pdf
-
 
 ### Published Papers
 <hr>
@@ -135,8 +142,6 @@ Within the economic literature, studies in identity economics, peer effects, and
 
 ### Work in Progress
 <hr>
-
-Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with Cesarine Boinet, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and Zhan Shi)
 
 The Value of Political Connection: Evidence from an Anti-Corruption Campaign in China (with <a href="https://sites.google.com/site/qaquocanhdo/" style="color: black;">Quoc-Anh Do</a> and <a href="https://sites.google.com/site/feixugracesunshine59/fei-xu" style="color: black;">Fei Xu</a>)
 
