@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.7)  26 OCT 2024 21:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.7)  3 NOV 2024 15:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1333,7 +1333,7 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
 (Font)              scaled to size 10.95pt on input line 92.
 
-Overfull \hbox (28.46724pt too wide) in alignment at lines 78--195
+Overfull \hbox (28.46724pt too wide) in alignment at lines 78--194
  [] [] 
  []
 
@@ -1344,13 +1344,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.195 \end{longtable}
+l.194 \end{longtable}
                       [2]
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.333 \end{document}
+l.332 \end{document}
                      [3] (cv_norris.aux)
 Package rerunfilecheck Info: File `cv_norris.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1373,7 +1373,7 @@ l/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/cxb18
 ic.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcha
 rter/XCharter-Italic.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv_norris.pdf (3 pages, 272858 bytes).
+Output written on cv_norris.pdf (3 pages, 272867 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
