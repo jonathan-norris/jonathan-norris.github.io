@@ -30,6 +30,15 @@ Research Fields: Economics and Inequality, Economics and Beliefs
 ### Working Papers
 <hr>
 
+**The aerial bombing of Cambodia and the recovery of communities** (with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>). <br/>
+<small>[ <a href="#/" onclick="visib('cambodiabomb')">Abstract</a> | [Draft][cambodiabomb-draft] ] </small> 
+
+<div id="cambodiabomb" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We study how the long-run impacts of local area exposures to US bombing in Cambodia have led to diverging patterns in health and development outcomes many years later. Using a wide range of geo-coded data and a spatial regression discontinuity adapted to many boundaries, we find that the long-term health impacts of past bombings vary significantly by location, depending on whether the bombs still influence activities today. In areas of hard ground, we show that unexploded ordinance (UXO) is less likely and there are positive effects on health today in these areas. In contrast, soft ground areas, where bombs were more likely to fail and UXO remains a threat experience either null or harmful effects. We then utilize numerous data sources to show that local economic development and improved access to health facilities are likely mechanisms explaining the positive effects in low UXO locations today. In regions free from the dangers of UXO, investments in economic activities and healthcare infrastructure have mitigated the negative effects of past bombings, even improving health outcomes post-conflict. However, in areas where UXO remains a threat, development has been hindered, and negative impacts persist. Our results overall offer an important lesson that while conflicts can be harmful, their impacts on future generations can be mitigated through investments in the post-conflict era, as long as remnants of war no longer remain.
+</small><br><br/></div>
+
+[cambodiabomb-draft]: {{site.baseurl}}/files/cambodia_lrbombing.pdf
+
 **Beliefs on Children’s Human Capital Accumulation and Mothers at Work** (with <a href="https://cesarine-boinet.github.io/" style="color: black;">C\'esarine Boinet</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, <a href="https://sites.google.com/view/paultelemo/home" style="color: black;">Paul Telemo</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>) <br/>
 <small>[ <a href="#/" onclick="visib('beliefsmomswork')">Abstract</a> | [Draft][beliefsmomswork-draft] ] </small>
 
@@ -60,15 +69,6 @@ We study the long-run effects of income inequality within peer compositions. An 
 
 [peerinequality-draft]: {{site.baseurl}}/files/peerinequality_Update.pdf
 [peerinequality-iza]: https://www.iza.org/publications/dp/15785/reference-dependent-aspirations-and-peer-effects-in-education
-
-**The aerial bombing of Cambodia and health in the very long-run** (with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>). <br/>
-<small>[ <a href="#/" onclick="visib('cambodiabomb')">Abstract</a> | [Draft][cambodiabomb-draft] ] </small> 
-
-<div id="cambodiabomb" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We study how the long-run impacts of local area exposures to US bombing in Cambodia have led to diverging patterns in health and development outcomes many years later. Using a wide range of geo-coded data and a spatial regression discontinuity adapted to many boundaries, we find that the long-term health impacts of past bombings vary significantly by location, depending on whether the bombs still influence activities today. In areas of hard ground, we show that unexploded ordinance (UXO) is less likely and there are positive effects on health today in these areas. In contrast, soft ground areas, where bombs were more likely to fail and UXO remains a threat experience either null or harmful effects. We then utilize numerous data sources to show that local economic development and improved access to health facilities are likely mechanisms explaining the positive effects in low UXO locations today. In regions free from the dangers of UXO, investments in economic activities and healthcare infrastructure have mitigated the negative effects of past bombings, even improving health outcomes post-conflict. However, in areas where UXO remains a threat, development has been hindered, and negative impacts persist. Our results overall offer an important lesson that while conflicts can be harmful, their impacts on future generations can be mitigated through investments in the post-conflict era, as long as remnants of war no longer remain.
-</small><br><br/></div>
-
-[cambodiabomb-draft]: {{site.baseurl}}/files/cambodia_lrbombing.pdf
 
 ### Published Papers
 <hr>
