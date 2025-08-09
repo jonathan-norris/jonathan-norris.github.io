@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.20)  21 JUN 2025 12:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.20)  9 AUG 2025 11:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1022,7 +1022,7 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
 (Font)              scaled to size 10.95pt on input line 92.
 
-Overfull \hbox (28.46724pt too wide) in alignment at lines 78--199
+Overfull \hbox (28.46724pt too wide) in alignment at lines 78--201
  [] [] 
  []
 
@@ -1032,14 +1032,14 @@ Overfull \hbox (28.46724pt too wide) in alignment at lines 78--199
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.199 \end{longtable}
+l.201 \end{longtable}
                       [2]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.337 \end{document}
+l.339 \end{document}
                      [3] (cv_norris.aux)
  ***********
 LaTeX2e <2025-06-01>
@@ -1051,15 +1051,15 @@ Package rerunfilecheck Info: File `cv_norris.out' has not changed.
 Here is how much of TeX's memory you used:
  29372 strings out of 468225
  533244 string characters out of 5431521
- 941524 words of memory out of 5000000
+ 942524 words of memory out of 5000000
  57323 multiletter control sequences out of 15000+600000
  716808 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,5n,87p,1112b,634s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Regular.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-BoldItalic.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Italic.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv_norris.pdf (3 pages, 273026 bytes).
+Output written on cv_norris.pdf (3 pages, 273454 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  30733 words of extra memory for PDF output out of 35830 (max. 10000000)
 
