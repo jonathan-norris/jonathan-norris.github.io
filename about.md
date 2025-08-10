@@ -143,7 +143,7 @@ Within the economic literature, studies in identity economics, peer effects, and
 ### Work in Progress
 <hr>
 
-The Value of Political Connection: Evidence from an Anti-Corruption Campaign in China (with <a href="https://sites.google.com/site/qaquocanhdo/" style="color: black;">Quoc-Anh Do</a> and <a href="https://sites.google.com/site/feixugracesunshine59/fei-xu" style="color: black;">Fei Xu</a>)
+Handcuffing the Grabbing Hand: Evidence from China's Anticorruption Campaign (with <a href="https://sites.google.com/site/qaquocanhdo/" style="color: black;">Quoc-Anh Do</a> and <a href="https://sites.google.com/site/feixugracesunshine59/fei-xu" style="color: black;">Fei Xu</a>)
 
 Asymmetries in Intensity and Persistence of Reciprocity in Labour Markets (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: black;">Marco Fongoni</a>, <a href="https://www.strath.ac.uk/staff/dicksonalexdr/" style="color: black;">Alex Dickson</a>).
 
