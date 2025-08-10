@@ -145,7 +145,7 @@ Within the economic literature, studies in identity economics, peer effects, and
 
 Handcuffing the Grabbing Hand: Evidence from China's Anticorruption Campaign (with <a href="https://sites.google.com/site/qaquocanhdo/" style="color: black;">Quoc-Anh Do</a> and <a href="https://sites.google.com/site/feixugracesunshine59/fei-xu" style="color: black;">Fei Xu</a>)
 
-Benevolent Corruption (with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>, <a href="https://www.mathiasiwanowsky.com/" style="color: black;">Mathias B{\"u}hler</a>, and <a href="https://www.jorismueller.com/" style="color: black;">Joris Mueller</a>).
+Benevolent Corruption (with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>, <a href="https://www.mathiasiwanowsky.com/" style="color: black;">Mathias B&uuml;hler</a>, and <a href="https://www.jorismueller.com/" style="color: black;">Joris Mueller</a>).
 
 
 
