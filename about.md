@@ -22,7 +22,7 @@ Research Fields: Economics and Institutions, Economics and Inequality, Economics
 
 &nbsp; 
 
-I am an applied microeconomist interested in empirical applications related to the historical contexts that shape economic development. In particular, I am recently interested in how the roots of development are shaped by past conflicts and the incentives and actions of institutions. In past work, I have studied a range of topics related to skill development and mental health. I also have some work using survey experiments to understand gender norms and motherhood labour market penalties. 
+I am an applied microeconomist interested in the historical contexts that shape economic development. In particular, I am recently interested in how the roots of development are shaped by past conflicts and in the incentives and actions of institutions that interact with development. In past work, I have studied a range of topics related to skill development and mental health. I also have some work using survey experiments to understand gender norms and motherhood labour market penalties. 
 
 <a href = "{{ site.baseurl }}/files/cv_norris.pdf" style="color: #000;"> <b> CV </b> </a>
 
