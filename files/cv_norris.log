@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.20)  10 AUG 2025 10:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.20)  21 OCT 2025 10:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1022,7 +1022,7 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/it' will be
 (Font)              scaled to size 10.95pt on input line 92.
 
-Overfull \hbox (28.46724pt too wide) in alignment at lines 78--201
+Overfull \hbox (33.745pt too wide) in alignment at lines 78--201
  [] [] 
  []
 
@@ -1057,7 +1057,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,5n,87p,1112b,634s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Regular.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-BoldItalic.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Italic.pfb><C:/Users/cxb18167/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Roman.pfb>
-Output written on cv_norris.pdf (3 pages, 278029 bytes).
+Output written on cv_norris.pdf (3 pages, 278028 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
