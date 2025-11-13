@@ -47,7 +47,8 @@ We study how local areas in Cambodia are still shaped by past exposure to US bom
 <small>[ <a href="#/" onclick="visib('beliefsmomswork')">Abstract</a> | [Draft][beliefsmomswork-draft] ] </small>
 
 <div id="beliefsmomswork" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Mothers may face pressure to sort out of the labor market due to perceptions that women have an absolute advantage in child-rearing, even when their earnings potential matches that of men. Guided by a simple model, we use a survey experiment where we equalize earnings potential across gender and show that women are perceived to hold an absolute advantage in child-rearing. We then experimentally test mechanisms underlying these beliefs, finding that mothers are expected to spend more time on skill investments with their children than fathers who have equivalent time available. Finally, we find that when mothers work full-time, children's actual performance is generally underestimated, but providing factual information about their outcomes, leads to more accurate beliefs and reduced expectations of harm to the child. Our results show that beliefs about an absolute advantage for women in child-rearing are indeed present and highlight the need for targeted interventions to address misinformation about children's outcomes when mothers pursue careers.
+Perceptions that women have an absolute advantage in child-rearing can pressure mothers out of work. Guided by a simple model, we use a survey experiment to equalize earnings potential across gender, finding that women are perceived to hold an absolute advantage in child-rearing. We show that these beliefs have intergenerational roots, predict women’s labor supply, and are explained by expectations that mothers will spend more productive time with children than fathers. Our findings add to the motherhood penalty literature by providing novel evidence helps explain a
+source of gender labor market differentials.
 </small><br><br/></div>
 
 [beliefsmomswork-draft]: {{site.baseurl}}/files/beliefs_moms_work.pdf
@@ -57,7 +58,14 @@ Mothers may face pressure to sort out of the labor market due to perceptions tha
 
 <div id="mpnorms" style="display: none; text-align: justify; line-height: 1.2" ><small>
 In this paper, we examine how pre-birth gender norms shape women's labor market trajectories and occupational choices around motherhood in the United Kingdom. Using data from the British Household Panel Survey, we first quantify the impact of gender norms on earnings and labor supply post-childbirth. Our results show that traditional mothers experience a 18-percentage-point (pp) higher motherhood penalty in earnings and a 20-pp higher motherhood penalty in hours worked compared to egalitarian mothers. Second, we investigate the role of pre-birth comparative advantage within couples, finding that this mechanism applies only to egalitarian parents.
-Third, we examine the interaction between occupational characteristics, including their degree of family-friendliness, and pre-birth gender norms. We find that accounting for occupational sorting significantly reduces the average earnings penalty for both traditional and egalitarian mothers, driven entirely by hours worked for traditional mothers. In addition, we show that occupational sorting explains 80% of the short-run earnings penalty gap between traditional and egalitarian mothers and eliminates the difference in hours worked penalties entirely.
+Third, we examine the interaction between occupational characteristics, including their degree of family-friendliness, and pre-birth gender norms. We find that accounting for occupational sorting significantly reduces the average earnings penalty for both traditional and egalitarian mothers, driven entirely by hours worked for traditional mothers. In addition, we show that occupational sorting explains 80% of the short-run earnings penalty gap between traditional and egalitarian mothers anPerceptions that women have an absolute advantage in child-rearing can
+pressure mothers out of work. Guided by a simple model, we use a survey
+experiment to equalize earnings potential across gender, finding that
+women are perceived to hold an absolute advantage in child-rearing. We
+show that these beliefs have intergenerational roots, predict women’s labor
+supply, and are explained by expectations that mothers will spend more
+productive time with children than fathers. Our findings add to the motherhood
+penalty literature by providing novel evidenced eliminates the difference in hours worked penalties entirely.
 Thus, traditional women seem to sort pre-birth into occupations that facilitate a larger reduction in hours worked post-motherhood, which in turn have a substantial impact on their earnings trajectory. 
 </small><br><br/></div>
 
