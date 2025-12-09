@@ -47,7 +47,7 @@ We study how local areas in Cambodia are still shaped by past exposure to US bom
 <small>[ <a href="#/" onclick="visib('beliefsmomswork')">Abstract</a> | [Draft][beliefsmomswork-draft] ] </small>
 
 <div id="beliefsmomswork" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Perceptions that women have an absolute advantage in child-rearing can pressure mothers out of work. Guided by a simple model, we use a survey experiment to equalize earnings potential across gender, finding that women are perceived to hold an absolute advantage in child-rearing. We show that these beliefs have intergenerational roots, predict women’s labor supply, and are explained by expectations that mothers will spend more productive time with children than fathers. Our findings add to the motherhood penalty literature by providing novel evidence helps explain a
+Perceptions that women have an absolute advantage in child-rearing can pressure mothers out of work. Guided by a simple model, we use a survey experiment to equalize earnings potential across gender, finding that women are perceived to hold an absolute advantage in child-rearing. We show that these beliefs have intergenerational roots, predict women’s labor supply, and are explained by expectations that mothers will spend more productive time with children than fathers. Our findings add to the motherhood penalty literature by providing novel evidence that helps explain a
 source of gender labor market differentials.
 </small><br><br/></div>
 
