@@ -72,7 +72,7 @@ Thus, traditional women seem to sort pre-birth into occupations that facilitate 
 [mpnorms-draft]: {{site.baseurl}}/files/penalty_norms_draft.pdf
 [mpnorms-izadraft]: https://www.iza.org/publications/dp/17334/the-motherhood-penalty-gender-norms-occupational-sorting-and-labor-supply 
 
-**Income Inequality and Peer Effects in Education** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: #000;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>). <br/>
+**Income Inequality and Peer Effects in Education (R&R at Labour Economics)** (with <a href="https://sites.google.com/site/marcofongoni/home" style="color: #000;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>). <br/>
 <small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 27/08/2024)][peerinequality-draft] | [IZA Draft (previous version; different title)][peerinequality-iza] ] </small>
 
 <div id="peerinequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
