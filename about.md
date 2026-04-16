@@ -52,7 +52,7 @@ Recreational marijuana legalization broadens adult access, but users at differen
 
 [rmlmh-draft]: {{site.baseurl}}/files/rml_paper_draft.pdf
 
-**Beliefs on Children’s Human Capital Accumulation and Mothers at Work** with <a href="https://cesarine-boinet.github.io/" style="color: black;">C\'esarine Boinet</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, <a href="https://sites.google.com/view/paultelemo/home" style="color: black;">Paul Telemo</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a> <br/>
+**Beliefs on Children’s Human Capital Accumulation and Mothers at Work** with <a href="https://cesarine-boinet.github.io/" style="color: black;">Cesarine Boinet</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, <a href="https://sites.google.com/view/paultelemo/home" style="color: black;">Paul Telemo</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a> <br/>
 <small>[ <a href="#/" onclick="visib('beliefsmomswork')">Abstract</a> | [Draft][beliefsmomswork-draft] ] </small>
 
 <div id="beliefsmomswork" style="display: none; text-align: justify; line-height: 1.2" ><small>
