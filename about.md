@@ -81,14 +81,14 @@ Thus, traditional women seem to sort pre-birth into occupations that facilitate 
 [mpnorms-draft]: {{site.baseurl}}/files/penalty_norms_draft.pdf
 [mpnorms-izadraft]: https://www.iza.org/publications/dp/17334/the-motherhood-penalty-gender-norms-occupational-sorting-and-labor-supply  -->
 
-**Income Inequality and Peer Effects in Education** *(R&R at Labour Economics)* with <a href="https://sites.google.com/site/marcofongoni/home" style="color: #000;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>. <br/>
-<small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 27/08/2024)][peerinequality-draft] | [IZA Draft (previous version; different title)][peerinequality-iza] ] </small>
+**Income Composition and Peer Effects in Education** *(R&R at Labour Economics)* with <a href="https://sites.google.com/site/marcofongoni/home" style="color: #000;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>. <br/>
+<small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 26/09/2025)][peerinequality-draft] | [IZA Draft (previous version; different title)][peerinequality-iza] ] </small>
 
 <div id="peerinequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We study the long-run effects of income inequality within peer compositions. An increase in the share of low-income peers within school-cohorts improves the educational outcomes of low-income students and negatively affects high-income students. We show this pattern is not likely explained by commonly observed mechanisms. We then propose a model based on reference-dependent preferences and social comparison that rationalizes our findings, highlighting the role of frustration or motivation depending on students’ relative income. We also provide evidence consistent with this mechanism. Finally, we show that better connections in school can help to avoid such unintended consequences of income inequality.
+We study the long-run effects of income differences within peer compositions. An increase in the share of low-income peers within school-cohorts improves the educational outcomes of low-income students and negatively affects high-income students. We show this pattern is not explained by commonly observed mechanisms. We then propose a model based on reference-dependent preferences and social comparison that rationalizes our findings, highlighting the role of frustration or motivation depending on students’ relative income. We also provide evidence consistent with this mechanism. Finally, we show that better connections in school can help avoid unintended consequences of income differences among peers.
 </small><br><br/></div>
 
-[peerinequality-draft]: {{site.baseurl}}/files/peerinequality_Update.pdf
+[peerinequality-draft]: {{site.baseurl}}/files/peerinequality_Update2.pdf
 [peerinequality-iza]: https://www.iza.org/publications/dp/15785/reference-dependent-aspirations-and-peer-effects-in-education
 
 ### Published Papers
