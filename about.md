@@ -34,7 +34,7 @@ I am an applied microeconomist interested in the historical contexts that shape 
 ### Working Papers
 <hr>
 
-**The aerial bombing of Cambodia and the recovery of communities** (with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>). <br/>
+**The aerial bombing of Cambodia and the recovery of communities** with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>. <br/>
 <small>[ <a href="#/" onclick="visib('cambodiabomb')">Abstract</a> | [Draft][cambodiabomb-draft] ] </small> 
 
 <div id="cambodiabomb" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -43,7 +43,7 @@ We study how local areas in Cambodia are still shaped by past exposure to US bom
 
 [cambodiabomb-draft]: {{site.baseurl}}/files/cambodia_lrbombing.pdf
 
-**Asymmetric Effects of Recreational Marijuana Laws on Mental Health and Labor Markets** (with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>, <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>). <br/>
+**Asymmetric Effects of Recreational Marijuana Laws on Mental Health and Labor Markets** with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>, <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>. <br/>
 <small>[ <a href="#/" onclick="visib('rmlmh')">Abstract</a> | [Draft][rmlmh-draft] ] </small>
 
 <div id="rmlmh" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -52,7 +52,7 @@ Recreational marijuana legalization broadens adult access, but users at differen
 
 [rmlmh-draft]: {{site.baseurl}}/files/rml_paper_draft.pdf
 
-**Beliefs on Children’s Human Capital Accumulation and Mothers at Work** (with <a href="https://cesarine-boinet.github.io/" style="color: black;">C\'esarine Boinet</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, <a href="https://sites.google.com/view/paultelemo/home" style="color: black;">Paul Telemo</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>) <br/>
+**Beliefs on Children’s Human Capital Accumulation and Mothers at Work** with <a href="https://cesarine-boinet.github.io/" style="color: black;">C\'esarine Boinet</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, <a href="https://sites.google.com/view/paultelemo/home" style="color: black;">Paul Telemo</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a> <br/>
 <small>[ <a href="#/" onclick="visib('beliefsmomswork')">Abstract</a> | [Draft][beliefsmomswork-draft] ] </small>
 
 <div id="beliefsmomswork" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -62,7 +62,7 @@ source of gender labor market differentials.
 
 [beliefsmomswork-draft]: {{site.baseurl}}/files/beliefs_moms_work.pdf
 
-**The Motherhood Penalty: Gender Norms, Occupational Sorting, and Labour Supply** (with <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a> and <a href="https://cesarine-boinet.github.io/" style="color: black;">C\'esarine Boinet</a>)  <br/>
+**The Motherhood Penalty: Gender Norms, Occupational Sorting, and Labour Supply** with <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a> and <a href="https://cesarine-boinet.github.io/" style="color: black;">Cesarine Boinet</a>  <br/>
 <small>[ <a href="#/" onclick="visib('mpnorms')">Abstract</a> | [Draft][mpnorms-draft] | [IZA Draft][mpnorms-izadraft] ] </small>
 
 <div id="mpnorms" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -81,7 +81,7 @@ Thus, traditional women seem to sort pre-birth into occupations that facilitate 
 [mpnorms-draft]: {{site.baseurl}}/files/penalty_norms_draft.pdf
 [mpnorms-izadraft]: https://www.iza.org/publications/dp/17334/the-motherhood-penalty-gender-norms-occupational-sorting-and-labor-supply 
 
-**Income Inequality and Peer Effects in Education** (***R&R at Labour Economics***) with <a href="https://sites.google.com/site/marcofongoni/home" style="color: #000;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>. <br/>
+**Income Inequality and Peer Effects in Education** *(R&R at Labour Economics)* with <a href="https://sites.google.com/site/marcofongoni/home" style="color: #000;">Marco Fongoni</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>. <br/>
 <small>[ <a href="#/" onclick="visib('peerinequality')">Abstract</a> | [Draft (updated 27/08/2024)][peerinequality-draft] | [IZA Draft (previous version; different title)][peerinequality-iza] ] </small>
 
 <div id="peerinequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
