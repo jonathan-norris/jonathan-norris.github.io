@@ -43,6 +43,15 @@ We study how local areas in Cambodia are still shaped by past exposure to US bom
 
 [cambodiabomb-draft]: {{site.baseurl}}/files/cambodia_lrbombing.pdf
 
+**Asymmetric Effects of Recreational Marijuana Laws on Mental Health and Labor Markets** (with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>, <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>). <br/>
+<small>[ <a href="#/" onclick="visib('rmlmh')">Abstract</a> | [Draft][rmlmh-draft] ] </small>
+
+<div id="rmlmh" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Recreational marijuana legalization broadens adult access, but users at different ages likely face very different consequences. We estimate the effects of recreational marijuana laws (RMLs) on mental health, behavior, and labor market outcomes using a difference-in-differences imputation strategy on state-year-age-group panel data from 2003–2024 across US states. RMLs raise past-year marijuana use roughly twice as much among 18–25 year olds as among adults 26 and older (6.4 versus 3.3 percentage points). This differential exposure by age helps explain the pattern in our results: the average effect on mental health is null, but this masks a sharp asymmetry. Young adults under 25 report more poor mental health days, exercise less, and become more likely to experience long-term unemployment, amounting to roughly 107,000 additional young adults in unemployment spells over one year across RML states. Adults over 50 report less joint pain, exercise more, and show suggestive income gains. The coherence across five outcomes points to two age-specific channels: cannabis exposure during neurological development for young adults, and pain management for older adults. The findings imply that a uniform adult access model for marijuana legalization produces costs concentrated among younger adults and benefits among older adults.
+</small><br><br/></div>
+
+[rmlmh-draft]: {{site.baseurl}}/files/rml_paper_draft.pdf
+
 **Beliefs on Children’s Human Capital Accumulation and Mothers at Work** (with <a href="https://cesarine-boinet.github.io/" style="color: black;">C\'esarine Boinet</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, <a href="https://sites.google.com/view/paultelemo/home" style="color: black;">Paul Telemo</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>) <br/>
 <small>[ <a href="#/" onclick="visib('beliefsmomswork')">Abstract</a> | [Draft][beliefsmomswork-draft] ] </small>
 
