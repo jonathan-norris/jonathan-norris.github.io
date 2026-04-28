@@ -34,6 +34,16 @@ I am an applied microeconomist interested in the historical contexts that shape 
 ### Working Papers
 <hr>
 
+**Political Accountability and the Returns to Peace** with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>, <a href="https://www.mathiasiwanowsky.com/" style="color: black;">Mathias B&uuml;hler</a>, and <a href="https://www.jorismueller.com/" style="color: black;">Joris Mueller</a>. <br/>
+<small>[ <a href="#/" onclick="visib('returnstopeace')">Abstract</a> | [Latest Draft][returnstopeace-draft]  | [CESifo WP][CESifo-link] ] </small>
+
+<div id="returnstopeace" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Why do some economies recover from armed conflict much better than others? We provide evidence that political accountability determines whether post-conflict societies realize the peace dividend. We study Cambodia, where a nationwide landmine clearance campaign created large local potential surpluses by freeing arable land and reducing victimization by 48%. Whether these surpluses translate into realized development depends on accountability. Using a staggered difference-in-differences strategy, we show that clearance raises the probability of any nightlights by 7.3 percentage points in areas with strong pre-existing demand for checks and balances on political elites. Where such demand is weak, the effect is close to zero. Elite capture explains the divergence. In low-accountability areas, clearance increases land concessions, deforestation, land disputes, and labor displacement. Where accountability is strong, clearance instead raises household consumption by 22%. Post-conflict recovery requires not just the existence of a peace dividend but political constraints on its capture.
+</small><br><br/></div>
+
+[returnstopeace-draft]: {{site.baseurl}}/files/PA_ReturnstoPeace.pdf
+[CESifo-link]: https://www.ifo.de/en/cesifo/publications/2026/working-paper/political-accountability-and-returns-peace
+
 **The aerial bombing of Cambodia and the recovery of communities** with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>. <br/>
 <small>[ <a href="#/" onclick="visib('cambodiabomb')">Abstract</a> | [Latest Draft][cambodiabomb-draft] ] </small> 
 
@@ -44,13 +54,14 @@ Post-conflict communities diverge. We show a reason why: whether ordnance detona
 [cambodiabomb-draft]: {{site.baseurl}}/files/cambodia_lrbombing_new.pdf
 
 **Asymmetric Effects of Recreational Marijuana Laws on Mental Health and Labor Markets** with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>, <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>. <br/>
-<small>[ <a href="#/" onclick="visib('rmlmh')">Abstract</a> | [Draft][rmlmh-draft] ] </small>
+<small>[ <a href="#/" onclick="visib('rmlmh')">Abstract</a> | [Draft][rmlmh-draft] | [SSRN WP][SSRN-link] ] </small>
 
 <div id="rmlmh" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Recreational marijuana legalization broadens adult access, but users at different ages likely face very different consequences. We estimate the effects of recreational marijuana laws (RMLs) on mental health, behavior, and labor market outcomes using a difference-in-differences imputation strategy on state-year-age-group panel data from 2003–2024 across US states. RMLs raise past-year marijuana use roughly twice as much among 18–25 year olds as among adults 26 and older (6.4 versus 3.3 percentage points). This differential exposure by age helps explain the pattern in our results: the average effect on mental health is null, but this masks a sharp asymmetry. Young adults under 25 report more poor mental health days, exercise less, and become more likely to experience long-term unemployment, amounting to roughly 107,000 additional young adults in unemployment spells over one year across RML states. Adults over 50 report less joint pain, exercise more, and show suggestive income gains. The coherence across five outcomes points to two age-specific channels: cannabis exposure during neurological development for young adults, and pain management for older adults. The findings imply that a uniform adult access model for marijuana legalization produces costs concentrated among younger adults and benefits among older adults.
 </small><br><br/></div>
 
 [rmlmh-draft]: {{site.baseurl}}/files/rml_paper_draft.pdf
+[SSRN-link]: http://dx.doi.org/10.2139/ssrn.6590998
 
 **Beliefs on Children’s Human Capital Accumulation and Mothers at Work** with <a href="https://cesarine-boinet.github.io/" style="color: black;">Cesarine Boinet</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, <a href="https://sites.google.com/view/paultelemo/home" style="color: black;">Paul Telemo</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a> <br/>
 <small>[ <a href="#/" onclick="visib('beliefsmomswork')">Abstract</a> | [Draft][beliefsmomswork-draft] ] </small>
