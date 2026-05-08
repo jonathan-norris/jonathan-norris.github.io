@@ -44,7 +44,7 @@ Why do some economies recover from armed conflict much better than others? We pr
 [returnstopeace-draft]: {{site.baseurl}}/files/PA_ReturnstoPeace.pdf
 [CESifo-link]: https://www.ifo.de/en/cesifo/publications/2026/working-paper/political-accountability-and-returns-peace
 
-**The aerial bombing of Cambodia and the recovery of communities** with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>. <br/>
+**The Aerial Bombing of Cambodia and the Recovery of Communities** with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>. <br/>
 <small>[ <a href="#/" onclick="visib('cambodiabomb')">Abstract</a> | [Latest Draft][cambodiabomb-draft] ] </small> 
 
 <div id="cambodiabomb" style="display: none; text-align: justify; line-height: 1.2" ><small>
