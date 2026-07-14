@@ -44,15 +44,6 @@ Why do some economies recover from armed conflict much better than others? We pr
 [returnstopeace-draft]: {{site.baseurl}}/files/PA_ReturnstoPeace.pdf
 [CESifo-link]: https://www.ifo.de/en/cesifo/publications/2026/working-paper/political-accountability-and-returns-peace
 
-**The Aerial Bombing of Cambodia and the Recovery of Communities** with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>. <br/>
-<small>[ <a href="#/" onclick="visib('cambodiabomb')">Abstract</a> | [Latest Draft][cambodiabomb-draft] ] </small> 
-
-<div id="cambodiabomb" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Post-conflict communities diverge. We show a reason why: whether ordnance detonates or stays buried. Using geo-coded data on US bombing in Cambodia (1965–1975) and a spatial matching approach interacted with pre-bombing soil type, we separate two channels more than thirty years later. On hard soil, bombs detonated; bombed communities show stronger health, development, and household welfare, consistent with a reset channel. On soft soil, bombs remained as UXO; bombed communities face worse health, lower development, reduced income, and constrained agricultural productivity, consistent with a risk channel. Recovery depends on whether conflict’s destruction or its remnants permit or tax future activity.
-</small><br><br/></div>
-
-[cambodiabomb-draft]: {{site.baseurl}}/files/cambodia_lrbombing_new.pdf
-
 **Asymmetric Effects of Recreational Marijuana Laws on Mental Health and Labor Markets** with <a href="https://sites.google.com/view/danielborbely/home" style="color: black;">Daniel Borbely</a>, <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a>. <br/>
 <small>[ <a href="#/" onclick="visib('rmlmh')">Abstract</a> | [Draft][rmlmh-draft] | [SSRN WP][SSRN-link] ] </small>
 
@@ -62,6 +53,15 @@ Recreational marijuana legalization broadens adult access, but users at differen
 
 [rmlmh-draft]: {{site.baseurl}}/files/rml_paper_draft.pdf
 [SSRN-link]: http://dx.doi.org/10.2139/ssrn.6590998
+
+**The Aerial Bombing of Cambodia and the Recovery of Communities** *(R&R at the Journal of Economic Growth)* with Thi Tham Ta and <a href="https://ottolenhart.com/about-2/" style="color: black;">Otto Lenhart</a>. <br/>
+<small>[ <a href="#/" onclick="visib('cambodiabomb')">Abstract</a> | [Latest Draft][cambodiabomb-draft] ] </small> 
+
+<div id="cambodiabomb" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Post-conflict communities diverge. We show a reason why: whether ordnance detonates or stays buried. Using geo-coded data on US bombing in Cambodia (1965–1975) and a spatial matching approach interacted with pre-bombing soil type, we separate two channels more than thirty years later. On hard soil, bombs detonated; bombed communities show stronger health, development, and household welfare, consistent with a reset channel. On soft soil, bombs remained as UXO; bombed communities face worse health, lower development, reduced income, and constrained agricultural productivity, consistent with a risk channel. Recovery depends on whether conflict’s destruction or its remnants permit or tax future activity.
+</small><br><br/></div>
+
+[cambodiabomb-draft]: {{site.baseurl}}/files/cambodia_lrbombing_new.pdf
 
 **Beliefs on Children’s Human Capital Accumulation and Mothers at Work** *(R&R at the Journal of Public Economics)* with <a href="https://cesarine-boinet.github.io/" style="color: black;">Cesarine Boinet</a>, <a href="https://sites.google.com/view/agneseromiti/home" style="color: black;">Agnese Romiti</a>, <a href="https://sites.google.com/view/paultelemo/home" style="color: black;">Paul Telemo</a>, and <a href="https://zhan-shi.github.io/" style="color: black;">Zhan Shi</a> <br/>
 <small>[ <a href="#/" onclick="visib('beliefsmomswork')">Abstract</a> | [Draft][beliefsmomswork-draft] ] </small>
