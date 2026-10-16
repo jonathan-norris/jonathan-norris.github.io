@@ -175,7 +175,7 @@ Within the economic literature, studies in identity economics, peer effects, and
 ### Work in Progress
 <hr>
 
-Handcuffing the Grabbing Hand: Evidence from China's Anticorruption Campaign (with <a href="https://sites.google.com/site/qaquocanhdo/" style="color: black;">Quoc-Anh Do</a> and <a href="https://sites.google.com/site/feixugracesunshine59/fei-xu" style="color: black;">Fei Xu</a>)
+Handcuffing the Grabbing Hand: Evidence from China's Anticorruption Campaign (with <a href="https://sites.google.com/site/qaquocanhdo/" style="color: black;">Guo Jingyuan</a>, <a href="https://sites.google.com/view/jingyuanguo/home" style="color: black;">Quoc-Anh Do</a>, and <a href="https://sites.google.com/site/feixugracesunshine59/fei-xu" style="color: black;">Fei Xu</a>)
 
 
 
